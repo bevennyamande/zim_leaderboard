@@ -3,7 +3,7 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-06-17 09:12 UTC  
+**Last updated:** 2025-06-17 09:17 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
@@ -57,6 +57,56 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 48 | `tyfahpundo` | 46 | 80 | [🔗](https://github.com/tyfahpundo) |
 | 49 | `ivanov660` | 45 | 4 | [🔗](https://github.com/ivanov660) |
 | 50 | `simon-kachepa` | 44 | 22 | [🔗](https://github.com/simon-kachepa) |
+| 51 | `telthemweb` | 43 | 108 | [🔗](https://github.com/telthemweb) |
+| 52 | `mrfr8nk` | 42 | 19 | [🔗](https://github.com/mrfr8nk) |
+| 53 | `ndoubismarck` | 42 | 16 | [🔗](https://github.com/ndoubismarck) |
+| 54 | `ChikangaTakudzwa` | 41 | 51 | [🔗](https://github.com/ChikangaTakudzwa) |
+| 55 | `berzel` | 41 | 40 | [🔗](https://github.com/berzel) |
+| 56 | `Towernter` | 40 | 19 | [🔗](https://github.com/Towernter) |
+| 57 | `codewithkin` | 39 | 84 | [🔗](https://github.com/codewithkin) |
+| 58 | `tate2301` | 39 | 77 | [🔗](https://github.com/tate2301) |
+| 59 | `MarlvinzW` | 38 | 28 | [🔗](https://github.com/MarlvinzW) |
+| 60 | `gwokudasam` | 38 | 279 | [🔗](https://github.com/gwokudasam) |
+| 61 | `nia-cloud-official` | 38 | 38 | [🔗](https://github.com/nia-cloud-official) |
+| 62 | `VincentMugondora` | 36 | 71 | [🔗](https://github.com/VincentMugondora) |
+| 63 | `bevennyamande` | 35 | 148 | [🔗](https://github.com/bevennyamande) |
+| 64 | `mikeyny` | 35 | 58 | [🔗](https://github.com/mikeyny) |
+| 65 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
+| 66 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
+| 67 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
+| 68 | `alecmus` | 33 | 38 | [🔗](https://github.com/alecmus) |
+| 69 | `bryanvengwa` | 33 | 57 | [🔗](https://github.com/bryanvengwa) |
+| 70 | `gitnyasha` | 33 | 77 | [🔗](https://github.com/gitnyasha) |
+| 71 | `bmukorera` | 33 | 28 | [🔗](https://github.com/bmukorera) |
+| 72 | `lordememphis` | 33 | 19 | [🔗](https://github.com/lordememphis) |
+| 73 | `omryzw` | 33 | 45 | [🔗](https://github.com/omryzw) |
+| 74 | `banQomania` | 33 | 65 | [🔗](https://github.com/banQomania) |
+| 75 | `im-machakata` | 33 | 25 | [🔗](https://github.com/im-machakata) |
+| 76 | `sibandadonty` | 32 | 9 | [🔗](https://github.com/sibandadonty) |
+| 77 | `Bongani-io` | 32 | 11 | [🔗](https://github.com/Bongani-io) |
+| 78 | `Ngonie-x` | 31 | 42 | [🔗](https://github.com/Ngonie-x) |
+| 79 | `rodney-m` | 30 | 111 | [🔗](https://github.com/rodney-m) |
+| 80 | `Henrix06` | 30 | 15 | [🔗](https://github.com/Henrix06) |
+| 81 | `tsitsiflora` | 30 | 30 | [🔗](https://github.com/tsitsiflora) |
+| 82 | `paynow` | 30 | 13 | [🔗](https://github.com/paynow) |
+| 83 | `tafadzwaonline` | 29 | 8 | [🔗](https://github.com/tafadzwaonline) |
+| 84 | `rbryanben` | 29 | 17 | [🔗](https://github.com/rbryanben) |
+| 85 | `layan2k` | 29 | 41 | [🔗](https://github.com/layan2k) |
+| 86 | `charle-k` | 29 | 15 | [🔗](https://github.com/charle-k) |
+| 87 | `richard-muvirimi` | 28 | 51 | [🔗](https://github.com/richard-muvirimi) |
+| 88 | `Georgy5` | 28 | 108 | [🔗](https://github.com/Georgy5) |
+| 89 | `Leeroy-Preston-Williams` | 28 | 32 | [🔗](https://github.com/Leeroy-Preston-Williams) |
+| 90 | `TheArtifulProgrammer` | 28 | 53 | [🔗](https://github.com/TheArtifulProgrammer) |
+| 91 | `sheltshamu` | 28 | 45 | [🔗](https://github.com/sheltshamu) |
+| 92 | `mpumzee` | 27 | 30 | [🔗](https://github.com/mpumzee) |
+| 93 | `ceekaymats` | 27 | 14 | [🔗](https://github.com/ceekaymats) |
+| 94 | `isheunesutembo` | 27 | 60 | [🔗](https://github.com/isheunesutembo) |
+| 95 | `paulshaun-kdtk` | 27 | 33 | [🔗](https://github.com/paulshaun-kdtk) |
+| 96 | `Draxeytina` | 27 | 54 | [🔗](https://github.com/Draxeytina) |
+| 97 | `tapiwanigel07` | 26 | 11 | [🔗](https://github.com/tapiwanigel07) |
+| 98 | `mutinhiri` | 26 | 79 | [🔗](https://github.com/mutinhiri) |
+| 99 | `pilatech` | 26 | 80 | [🔗](https://github.com/pilatech) |
+| 100 | `amosesuwali` | 26 | 10 | [🔗](https://github.com/amosesuwali) |
 <!-- END LEADERBOARD -->
 
 > Powered by GitHub Actions + OpenAI braincells

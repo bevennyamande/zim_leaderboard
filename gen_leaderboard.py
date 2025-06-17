@@ -8,7 +8,7 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 COUNTRY = "Zimbabwe"
-LIMIT = 50
+LIMIT = 100
 README_FILE = "README.md"
 MARKER_START = "<!-- START LEADERBOARD -->"
 MARKER_END = "<!-- END LEADERBOARD -->"
