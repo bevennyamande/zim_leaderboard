@@ -3,7 +3,7 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-06-17 09:17 UTC  
+**Last updated:** 2025-06-17 09:42 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
@@ -75,8 +75,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 66 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
 | 67 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
 | 68 | `alecmus` | 33 | 38 | [🔗](https://github.com/alecmus) |
-| 69 | `bryanvengwa` | 33 | 57 | [🔗](https://github.com/bryanvengwa) |
-| 70 | `gitnyasha` | 33 | 77 | [🔗](https://github.com/gitnyasha) |
+| 69 | `gitnyasha` | 33 | 77 | [🔗](https://github.com/gitnyasha) |
+| 70 | `bryanvengwa` | 33 | 57 | [🔗](https://github.com/bryanvengwa) |
 | 71 | `bmukorera` | 33 | 28 | [🔗](https://github.com/bmukorera) |
 | 72 | `lordememphis` | 33 | 19 | [🔗](https://github.com/lordememphis) |
 | 73 | `omryzw` | 33 | 45 | [🔗](https://github.com/omryzw) |
