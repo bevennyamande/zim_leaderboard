@@ -1,3 +1,5 @@
+[![Daily GitHub Leaderboard Update](https://github.com/bevennyamande/zim_leaderboard/actions/workflows/leaderboard.yml/badge.svg)](https://github.com/bevennyamande/zim_leaderboard/actions/workflows/leaderboard.yml)
+
 # 🦍 Zimbabwe GitHub Leaderboard
 
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
