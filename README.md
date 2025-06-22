@@ -5,11 +5,11 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-06-21 04:24 UTC  
+**Last updated:** 2025-06-22 04:30 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 2795 | 9 | [🔗](https://github.com/AyuGram) |
+| 1 | `AyuGram` | 2798 | 9 | [🔗](https://github.com/AyuGram) |
 | 2 | `thatstraw` | 545 | 62 | [🔗](https://github.com/thatstraw) |
 | 3 | `skyridertk` | 191 | 43 | [🔗](https://github.com/skyridertk) |
 | 4 | `blessing-mufaro` | 184 | 26 | [🔗](https://github.com/blessing-mufaro) |
@@ -17,10 +17,10 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 6 | `prjctimg` | 173 | 14 | [🔗](https://github.com/prjctimg) |
 | 7 | `protendai` | 165 | 17 | [🔗](https://github.com/protendai) |
 | 8 | `sirx2713` | 161 | 503 | [🔗](https://github.com/sirx2713) |
-| 9 | `kudak3` | 156 | 24 | [🔗](https://github.com/kudak3) |
+| 9 | `kudak3` | 157 | 24 | [🔗](https://github.com/kudak3) |
 | 10 | `Elisvobs` | 147 | 39 | [🔗](https://github.com/Elisvobs) |
-| 11 | `DonnC` | 138 | 89 | [🔗](https://github.com/DonnC) |
-| 12 | `michaeldera` | 129 | 35 | [🔗](https://github.com/michaeldera) |
+| 11 | `DonnC` | 139 | 89 | [🔗](https://github.com/DonnC) |
+| 12 | `michaeldera` | 130 | 35 | [🔗](https://github.com/michaeldera) |
 | 13 | `zim-bot` | 111 | 10 | [🔗](https://github.com/zim-bot) |
 | 14 | `Ju99ernaut` | 108 | 94 | [🔗](https://github.com/Ju99ernaut) |
 | 15 | `NyashaKays` | 102 | 18 | [🔗](https://github.com/NyashaKays) |
@@ -41,7 +41,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 30 | `loktioncode` | 67 | 201 | [🔗](https://github.com/loktioncode) |
 | 31 | `tongoonamujera` | 64 | 32 | [🔗](https://github.com/tongoonamujera) |
 | 32 | `RHavar` | 63 | 19 | [🔗](https://github.com/RHavar) |
-| 33 | `GoldenEye37` | 60 | 37 | [🔗](https://github.com/GoldenEye37) |
+| 33 | `GoldenEye37` | 59 | 37 | [🔗](https://github.com/GoldenEye37) |
 | 34 | `Bshata` | 57 | 9 | [🔗](https://github.com/Bshata) |
 | 35 | `TheGodOfAwesome` | 56 | 161 | [🔗](https://github.com/TheGodOfAwesome) |
 | 36 | `Munyaradzi-Chigangawa` | 55 | 37 | [🔗](https://github.com/Munyaradzi-Chigangawa) |
@@ -55,13 +55,13 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 44 | `TadiwanasheZvidzaRodney` | 48 | 42 | [🔗](https://github.com/TadiwanasheZvidzaRodney) |
 | 45 | `AdornChoga` | 47 | 28 | [🔗](https://github.com/AdornChoga) |
 | 46 | `invincyx` | 47 | 14 | [🔗](https://github.com/invincyx) |
-| 47 | `terencetachiona` | 46 | 28 | [🔗](https://github.com/terencetachiona) |
-| 48 | `tyfahpundo` | 46 | 80 | [🔗](https://github.com/tyfahpundo) |
-| 49 | `ivanov660` | 45 | 4 | [🔗](https://github.com/ivanov660) |
-| 50 | `simon-kachepa` | 44 | 22 | [🔗](https://github.com/simon-kachepa) |
-| 51 | `mrfr8nk` | 44 | 20 | [🔗](https://github.com/mrfr8nk) |
-| 52 | `telthemweb` | 43 | 108 | [🔗](https://github.com/telthemweb) |
-| 53 | `ndoubismarck` | 43 | 16 | [🔗](https://github.com/ndoubismarck) |
+| 47 | `mrfr8nk` | 46 | 21 | [🔗](https://github.com/mrfr8nk) |
+| 48 | `terencetachiona` | 46 | 28 | [🔗](https://github.com/terencetachiona) |
+| 49 | `tyfahpundo` | 46 | 80 | [🔗](https://github.com/tyfahpundo) |
+| 50 | `ivanov660` | 45 | 4 | [🔗](https://github.com/ivanov660) |
+| 51 | `simon-kachepa` | 44 | 22 | [🔗](https://github.com/simon-kachepa) |
+| 52 | `ndoubismarck` | 44 | 16 | [🔗](https://github.com/ndoubismarck) |
+| 53 | `telthemweb` | 43 | 108 | [🔗](https://github.com/telthemweb) |
 | 54 | `ChikangaTakudzwa` | 42 | 51 | [🔗](https://github.com/ChikangaTakudzwa) |
 | 55 | `berzel` | 42 | 40 | [🔗](https://github.com/berzel) |
 | 56 | `Towernter` | 40 | 19 | [🔗](https://github.com/Towernter) |
@@ -71,26 +71,26 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 60 | `gwokudasam` | 38 | 279 | [🔗](https://github.com/gwokudasam) |
 | 61 | `nia-cloud-official` | 38 | 38 | [🔗](https://github.com/nia-cloud-official) |
 | 62 | `VincentMugondora` | 36 | 73 | [🔗](https://github.com/VincentMugondora) |
-| 63 | `bevennyamande` | 35 | 148 | [🔗](https://github.com/bevennyamande) |
+| 63 | `bevennyamande` | 36 | 148 | [🔗](https://github.com/bevennyamande) |
 | 64 | `mikeyny` | 35 | 59 | [🔗](https://github.com/mikeyny) |
 | 65 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
 | 66 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
 | 67 | `omryzw` | 34 | 45 | [🔗](https://github.com/omryzw) |
 | 68 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
 | 69 | `alecmus` | 33 | 38 | [🔗](https://github.com/alecmus) |
-| 70 | `bryanvengwa` | 33 | 57 | [🔗](https://github.com/bryanvengwa) |
-| 71 | `gitnyasha` | 33 | 77 | [🔗](https://github.com/gitnyasha) |
+| 70 | `gitnyasha` | 33 | 77 | [🔗](https://github.com/gitnyasha) |
+| 71 | `bryanvengwa` | 33 | 57 | [🔗](https://github.com/bryanvengwa) |
 | 72 | `bmukorera` | 33 | 28 | [🔗](https://github.com/bmukorera) |
 | 73 | `lordememphis` | 33 | 19 | [🔗](https://github.com/lordememphis) |
 | 74 | `banQomania` | 33 | 65 | [🔗](https://github.com/banQomania) |
 | 75 | `im-machakata` | 33 | 25 | [🔗](https://github.com/im-machakata) |
 | 76 | `sibandadonty` | 32 | 9 | [🔗](https://github.com/sibandadonty) |
 | 77 | `Bongani-io` | 32 | 11 | [🔗](https://github.com/Bongani-io) |
-| 78 | `Ngonie-x` | 31 | 42 | [🔗](https://github.com/Ngonie-x) |
-| 79 | `rodney-m` | 30 | 111 | [🔗](https://github.com/rodney-m) |
-| 80 | `Henrix06` | 30 | 15 | [🔗](https://github.com/Henrix06) |
-| 81 | `tsitsiflora` | 30 | 30 | [🔗](https://github.com/tsitsiflora) |
-| 82 | `paynow` | 30 | 13 | [🔗](https://github.com/paynow) |
+| 78 | `paynow` | 31 | 13 | [🔗](https://github.com/paynow) |
+| 79 | `tsitsiflora` | 31 | 30 | [🔗](https://github.com/tsitsiflora) |
+| 80 | `Ngonie-x` | 31 | 42 | [🔗](https://github.com/Ngonie-x) |
+| 81 | `rodney-m` | 30 | 111 | [🔗](https://github.com/rodney-m) |
+| 82 | `Henrix06` | 30 | 15 | [🔗](https://github.com/Henrix06) |
 | 83 | `tafadzwaonline` | 29 | 9 | [🔗](https://github.com/tafadzwaonline) |
 | 84 | `rbryanben` | 29 | 17 | [🔗](https://github.com/rbryanben) |
 | 85 | `layan2k` | 29 | 41 | [🔗](https://github.com/layan2k) |
@@ -104,11 +104,11 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 93 | `ceekaymats` | 27 | 14 | [🔗](https://github.com/ceekaymats) |
 | 94 | `isheunesutembo` | 27 | 60 | [🔗](https://github.com/isheunesutembo) |
 | 95 | `paulshaun-kdtk` | 27 | 33 | [🔗](https://github.com/paulshaun-kdtk) |
-| 96 | `Draxeytina` | 27 | 54 | [🔗](https://github.com/Draxeytina) |
-| 97 | `tapiwanigel07` | 26 | 11 | [🔗](https://github.com/tapiwanigel07) |
-| 98 | `mutinhiri` | 26 | 79 | [🔗](https://github.com/mutinhiri) |
-| 99 | `pilatech` | 26 | 80 | [🔗](https://github.com/pilatech) |
-| 100 | `amosesuwali` | 26 | 10 | [🔗](https://github.com/amosesuwali) |
+| 96 | `devMunyaradziMatindike` | 27 | 33 | [🔗](https://github.com/devMunyaradziMatindike) |
+| 97 | `Draxeytina` | 27 | 54 | [🔗](https://github.com/Draxeytina) |
+| 98 | `tapiwanigel07` | 26 | 11 | [🔗](https://github.com/tapiwanigel07) |
+| 99 | `mutinhiri` | 26 | 79 | [🔗](https://github.com/mutinhiri) |
+| 100 | `pilatech` | 26 | 80 | [🔗](https://github.com/pilatech) |
 <!-- END LEADERBOARD -->
 
 > Powered by GitHub Actions + OpenAI braincells
