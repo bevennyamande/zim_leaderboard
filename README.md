@@ -5,16 +5,16 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-07-03 04:32 UTC  
+**Last updated:** 2025-07-04 04:30 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 2831 | 9 | [🔗](https://github.com/AyuGram) |
-| 2 | `skyridertk` | 191 | 44 | [🔗](https://github.com/skyridertk) |
+| 1 | `AyuGram` | 2835 | 9 | [🔗](https://github.com/AyuGram) |
+| 2 | `skyridertk` | 190 | 44 | [🔗](https://github.com/skyridertk) |
 | 3 | `blessing-mufaro` | 184 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 4 | `alistairholmes` | 175 | 109 | [🔗](https://github.com/alistairholmes) |
 | 5 | `prjctimg` | 169 | 14 | [🔗](https://github.com/prjctimg) |
-| 6 | `protendai` | 164 | 17 | [🔗](https://github.com/protendai) |
+| 6 | `protendai` | 167 | 17 | [🔗](https://github.com/protendai) |
 | 7 | `sirx2713` | 161 | 503 | [🔗](https://github.com/sirx2713) |
 | 8 | `kudak3` | 158 | 24 | [🔗](https://github.com/kudak3) |
 | 9 | `Elisvobs` | 148 | 39 | [🔗](https://github.com/Elisvobs) |
@@ -28,14 +28,14 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 17 | `Amen-Musingarimi` | 94 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
 | 18 | `zinyando` | 92 | 100 | [🔗](https://github.com/zinyando) |
 | 19 | `gtchakama` | 90 | 78 | [🔗](https://github.com/gtchakama) |
-| 20 | `123nicky` | 88 | 7 | [🔗](https://github.com/123nicky) |
-| 21 | `ronna` | 86 | 36 | [🔗](https://github.com/ronna) |
-| 22 | `kukuthecoder` | 85 | 7 | [🔗](https://github.com/kukuthecoder) |
-| 23 | `nigelreign` | 84 | 61 | [🔗](https://github.com/nigelreign) |
-| 24 | `PrettyR` | 81 | 9 | [🔗](https://github.com/PrettyR) |
-| 25 | `xeroxzen` | 81 | 100 | [🔗](https://github.com/xeroxzen) |
+| 20 | `ronna` | 87 | 36 | [🔗](https://github.com/ronna) |
+| 21 | `123nicky` | 87 | 7 | [🔗](https://github.com/123nicky) |
+| 22 | `nigelreign` | 85 | 61 | [🔗](https://github.com/nigelreign) |
+| 23 | `kukuthecoder` | 85 | 7 | [🔗](https://github.com/kukuthecoder) |
+| 24 | `xeroxzen` | 83 | 100 | [🔗](https://github.com/xeroxzen) |
+| 25 | `PrettyR` | 81 | 9 | [🔗](https://github.com/PrettyR) |
 | 26 | `brighton0102` | 80 | 51 | [🔗](https://github.com/brighton0102) |
-| 27 | `kudapara` | 76 | 77 | [🔗](https://github.com/kudapara) |
+| 27 | `kudapara` | 77 | 77 | [🔗](https://github.com/kudapara) |
 | 28 | `Dalu-Buhle` | 68 | 19 | [🔗](https://github.com/Dalu-Buhle) |
 | 29 | `loktioncode` | 68 | 201 | [🔗](https://github.com/loktioncode) |
 | 30 | `tongoonamujera` | 64 | 32 | [🔗](https://github.com/tongoonamujera) |
@@ -64,14 +64,14 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 53 | `ChikangaTakudzwa` | 42 | 52 | [🔗](https://github.com/ChikangaTakudzwa) |
 | 54 | `berzel` | 42 | 40 | [🔗](https://github.com/berzel) |
 | 55 | `codewithkin` | 42 | 85 | [🔗](https://github.com/codewithkin) |
-| 56 | `Towernter` | 40 | 19 | [🔗](https://github.com/Towernter) |
-| 57 | `tate2301` | 39 | 77 | [🔗](https://github.com/tate2301) |
+| 56 | `tate2301` | 41 | 77 | [🔗](https://github.com/tate2301) |
+| 57 | `Towernter` | 40 | 19 | [🔗](https://github.com/Towernter) |
 | 58 | `nia-cloud-official` | 39 | 38 | [🔗](https://github.com/nia-cloud-official) |
 | 59 | `MarlvinzW` | 38 | 28 | [🔗](https://github.com/MarlvinzW) |
-| 60 | `VincentMugondora` | 36 | 76 | [🔗](https://github.com/VincentMugondora) |
-| 61 | `bevennyamande` | 36 | 148 | [🔗](https://github.com/bevennyamande) |
-| 62 | `gwokudasam` | 36 | 279 | [🔗](https://github.com/gwokudasam) |
-| 63 | `mikeyny` | 35 | 59 | [🔗](https://github.com/mikeyny) |
+| 60 | `bevennyamande` | 36 | 148 | [🔗](https://github.com/bevennyamande) |
+| 61 | `VincentMugondora` | 36 | 78 | [🔗](https://github.com/VincentMugondora) |
+| 62 | `mikeyny` | 35 | 59 | [🔗](https://github.com/mikeyny) |
+| 63 | `gwokudasam` | 35 | 279 | [🔗](https://github.com/gwokudasam) |
 | 64 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
 | 65 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
 | 66 | `gitnyasha` | 34 | 77 | [🔗](https://github.com/gitnyasha) |
