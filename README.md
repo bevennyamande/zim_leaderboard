@@ -5,11 +5,11 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-07-06 04:33 UTC  
+**Last updated:** 2025-07-07 04:34 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 2841 | 9 | [🔗](https://github.com/AyuGram) |
+| 1 | `AyuGram` | 2844 | 9 | [🔗](https://github.com/AyuGram) |
 | 2 | `skyridertk` | 193 | 44 | [🔗](https://github.com/skyridertk) |
 | 3 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 4 | `alistairholmes` | 175 | 109 | [🔗](https://github.com/alistairholmes) |
@@ -18,20 +18,20 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 7 | `sirx2713` | 162 | 503 | [🔗](https://github.com/sirx2713) |
 | 8 | `kudak3` | 158 | 24 | [🔗](https://github.com/kudak3) |
 | 9 | `Elisvobs` | 148 | 39 | [🔗](https://github.com/Elisvobs) |
-| 10 | `DonnC` | 142 | 89 | [🔗](https://github.com/DonnC) |
+| 10 | `DonnC` | 143 | 89 | [🔗](https://github.com/DonnC) |
 | 11 | `michaeldera` | 131 | 35 | [🔗](https://github.com/michaeldera) |
 | 12 | `zim-bot` | 111 | 10 | [🔗](https://github.com/zim-bot) |
 | 13 | `Ju99ernaut` | 108 | 94 | [🔗](https://github.com/Ju99ernaut) |
 | 14 | `NyashaKays` | 102 | 18 | [🔗](https://github.com/NyashaKays) |
 | 15 | `ibnufaqih77` | 101 | 1 | [🔗](https://github.com/ibnufaqih77) |
 | 16 | `terrameijar` | 99 | 49 | [🔗](https://github.com/terrameijar) |
-| 17 | `Amen-Musingarimi` | 93 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
-| 18 | `zinyando` | 93 | 100 | [🔗](https://github.com/zinyando) |
+| 17 | `zinyando` | 94 | 100 | [🔗](https://github.com/zinyando) |
+| 18 | `Amen-Musingarimi` | 93 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
 | 19 | `gtchakama` | 90 | 78 | [🔗](https://github.com/gtchakama) |
 | 20 | `ronna` | 87 | 36 | [🔗](https://github.com/ronna) |
 | 21 | `123nicky` | 87 | 7 | [🔗](https://github.com/123nicky) |
-| 22 | `kukuthecoder` | 86 | 7 | [🔗](https://github.com/kukuthecoder) |
-| 23 | `nigelreign` | 85 | 61 | [🔗](https://github.com/nigelreign) |
+| 22 | `nigelreign` | 85 | 61 | [🔗](https://github.com/nigelreign) |
+| 23 | `kukuthecoder` | 85 | 7 | [🔗](https://github.com/kukuthecoder) |
 | 24 | `xeroxzen` | 84 | 100 | [🔗](https://github.com/xeroxzen) |
 | 25 | `PrettyR` | 81 | 9 | [🔗](https://github.com/PrettyR) |
 | 26 | `brighton0102` | 80 | 51 | [🔗](https://github.com/brighton0102) |
