@@ -5,12 +5,12 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-07-13 04:37 UTC  
+**Last updated:** 2025-07-14 04:41 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 2865 | 9 | [🔗](https://github.com/AyuGram) |
-| 2 | `skyridertk` | 195 | 45 | [🔗](https://github.com/skyridertk) |
+| 1 | `AyuGram` | 2869 | 9 | [🔗](https://github.com/AyuGram) |
+| 2 | `skyridertk` | 193 | 45 | [🔗](https://github.com/skyridertk) |
 | 3 | `blessing-mufaro` | 186 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 4 | `alistairholmes` | 175 | 109 | [🔗](https://github.com/alistairholmes) |
 | 5 | `prjctimg` | 171 | 14 | [🔗](https://github.com/prjctimg) |
@@ -32,7 +32,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 21 | `123nicky` | 87 | 7 | [🔗](https://github.com/123nicky) |
 | 22 | `nigelreign` | 86 | 61 | [🔗](https://github.com/nigelreign) |
 | 23 | `kukuthecoder` | 85 | 7 | [🔗](https://github.com/kukuthecoder) |
-| 24 | `xeroxzen` | 84 | 100 | [🔗](https://github.com/xeroxzen) |
+| 24 | `xeroxzen` | 84 | 101 | [🔗](https://github.com/xeroxzen) |
 | 25 | `PrettyR` | 81 | 9 | [🔗](https://github.com/PrettyR) |
 | 26 | `brighton0102` | 80 | 51 | [🔗](https://github.com/brighton0102) |
 | 27 | `kudapara` | 77 | 77 | [🔗](https://github.com/kudapara) |
@@ -57,13 +57,13 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 46 | `AdornChoga` | 47 | 28 | [🔗](https://github.com/AdornChoga) |
 | 47 | `terencetachiona` | 46 | 28 | [🔗](https://github.com/terencetachiona) |
 | 48 | `tyfahpundo` | 46 | 80 | [🔗](https://github.com/tyfahpundo) |
-| 49 | `ivanov660` | 45 | 4 | [🔗](https://github.com/ivanov660) |
-| 50 | `simon-kachepa` | 44 | 22 | [🔗](https://github.com/simon-kachepa) |
-| 51 | `telthemweb` | 43 | 108 | [🔗](https://github.com/telthemweb) |
-| 52 | `ndoubismarck` | 43 | 16 | [🔗](https://github.com/ndoubismarck) |
+| 49 | `ndoubismarck` | 46 | 16 | [🔗](https://github.com/ndoubismarck) |
+| 50 | `ivanov660` | 45 | 4 | [🔗](https://github.com/ivanov660) |
+| 51 | `simon-kachepa` | 44 | 22 | [🔗](https://github.com/simon-kachepa) |
+| 52 | `codewithkin` | 43 | 86 | [🔗](https://github.com/codewithkin) |
 | 53 | `ChikangaTakudzwa` | 42 | 52 | [🔗](https://github.com/ChikangaTakudzwa) |
-| 54 | `berzel` | 42 | 40 | [🔗](https://github.com/berzel) |
-| 55 | `codewithkin` | 42 | 86 | [🔗](https://github.com/codewithkin) |
+| 54 | `telthemweb` | 42 | 108 | [🔗](https://github.com/telthemweb) |
+| 55 | `berzel` | 42 | 40 | [🔗](https://github.com/berzel) |
 | 56 | `tate2301` | 41 | 77 | [🔗](https://github.com/tate2301) |
 | 57 | `Towernter` | 40 | 19 | [🔗](https://github.com/Towernter) |
 | 58 | `bevennyamande` | 38 | 148 | [🔗](https://github.com/bevennyamande) |
@@ -81,21 +81,21 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 70 | `alecmus` | 33 | 38 | [🔗](https://github.com/alecmus) |
 | 71 | `bryanvengwa` | 33 | 62 | [🔗](https://github.com/bryanvengwa) |
 | 72 | `Bongani-io` | 33 | 11 | [🔗](https://github.com/Bongani-io) |
-| 73 | `bmukorera` | 33 | 28 | [🔗](https://github.com/bmukorera) |
-| 74 | `lordememphis` | 33 | 19 | [🔗](https://github.com/lordememphis) |
+| 73 | `lordememphis` | 33 | 19 | [🔗](https://github.com/lordememphis) |
+| 74 | `bmukorera` | 33 | 28 | [🔗](https://github.com/bmukorera) |
 | 75 | `banQomania` | 33 | 65 | [🔗](https://github.com/banQomania) |
 | 76 | `im-machakata` | 33 | 25 | [🔗](https://github.com/im-machakata) |
 | 77 | `layan2k` | 31 | 41 | [🔗](https://github.com/layan2k) |
 | 78 | `paynow` | 31 | 13 | [🔗](https://github.com/paynow) |
 | 79 | `tsitsiflora` | 31 | 30 | [🔗](https://github.com/tsitsiflora) |
 | 80 | `rodney-m` | 30 | 111 | [🔗](https://github.com/rodney-m) |
-| 81 | `ceekaymats` | 30 | 14 | [🔗](https://github.com/ceekaymats) |
-| 82 | `rbryanben` | 30 | 17 | [🔗](https://github.com/rbryanben) |
-| 83 | `Ngonie-x` | 30 | 42 | [🔗](https://github.com/Ngonie-x) |
+| 81 | `rbryanben` | 30 | 17 | [🔗](https://github.com/rbryanben) |
+| 82 | `Ngonie-x` | 30 | 42 | [🔗](https://github.com/Ngonie-x) |
+| 83 | `ceekaymats` | 29 | 14 | [🔗](https://github.com/ceekaymats) |
 | 84 | `Henrix06` | 29 | 15 | [🔗](https://github.com/Henrix06) |
 | 85 | `Georgy5` | 29 | 108 | [🔗](https://github.com/Georgy5) |
-| 86 | `charle-k` | 29 | 15 | [🔗](https://github.com/charle-k) |
-| 87 | `TheArtifulProgrammer` | 29 | 53 | [🔗](https://github.com/TheArtifulProgrammer) |
+| 86 | `TheArtifulProgrammer` | 29 | 53 | [🔗](https://github.com/TheArtifulProgrammer) |
+| 87 | `charle-k` | 29 | 16 | [🔗](https://github.com/charle-k) |
 | 88 | `mpumzee` | 28 | 30 | [🔗](https://github.com/mpumzee) |
 | 89 | `richard-muvirimi` | 28 | 51 | [🔗](https://github.com/richard-muvirimi) |
 | 90 | `sheltshamu` | 28 | 47 | [🔗](https://github.com/sheltshamu) |
@@ -104,11 +104,11 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 93 | `elandamor` | 27 | 48 | [🔗](https://github.com/elandamor) |
 | 94 | `isheunesutembo` | 27 | 63 | [🔗](https://github.com/isheunesutembo) |
 | 95 | `paulshaun-kdtk` | 27 | 34 | [🔗](https://github.com/paulshaun-kdtk) |
-| 96 | `devMunyaradziMatindike` | 27 | 33 | [🔗](https://github.com/devMunyaradziMatindike) |
-| 97 | `Leeroy-Preston-Williams` | 27 | 32 | [🔗](https://github.com/Leeroy-Preston-Williams) |
-| 98 | `Draxeytina` | 27 | 54 | [🔗](https://github.com/Draxeytina) |
-| 99 | `tapiwanigel07` | 26 | 11 | [🔗](https://github.com/tapiwanigel07) |
-| 100 | `mutinhiri` | 26 | 79 | [🔗](https://github.com/mutinhiri) |
+| 96 | `amosesuwali` | 27 | 10 | [🔗](https://github.com/amosesuwali) |
+| 97 | `devMunyaradziMatindike` | 27 | 33 | [🔗](https://github.com/devMunyaradziMatindike) |
+| 98 | `Leeroy-Preston-Williams` | 27 | 32 | [🔗](https://github.com/Leeroy-Preston-Williams) |
+| 99 | `Draxeytina` | 27 | 54 | [🔗](https://github.com/Draxeytina) |
+| 100 | `tapiwanigel07` | 26 | 11 | [🔗](https://github.com/tapiwanigel07) |
 <!-- END LEADERBOARD -->
 
 > Powered by GitHub Actions + OpenAI braincells
