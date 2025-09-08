@@ -5,18 +5,18 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-09-07 04:21 UTC  
+**Last updated:** 2025-09-08 04:23 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 3185 | 9 | [🔗](https://github.com/AyuGram) |
-| 2 | `skyridertk` | 193 | 45 | [🔗](https://github.com/skyridertk) |
+| 1 | `AyuGram` | 3193 | 9 | [🔗](https://github.com/AyuGram) |
+| 2 | `skyridertk` | 196 | 45 | [🔗](https://github.com/skyridertk) |
 | 3 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 4 | `alistairholmes` | 175 | 110 | [🔗](https://github.com/alistairholmes) |
-| 5 | `prjctimg` | 174 | 6 | [🔗](https://github.com/prjctimg) |
+| 5 | `prjctimg` | 175 | 6 | [🔗](https://github.com/prjctimg) |
 | 6 | `protendai` | 167 | 17 | [🔗](https://github.com/protendai) |
 | 7 | `sirx2713` | 165 | 520 | [🔗](https://github.com/sirx2713) |
-| 8 | `kudak3` | 157 | 24 | [🔗](https://github.com/kudak3) |
+| 8 | `kudak3` | 156 | 24 | [🔗](https://github.com/kudak3) |
 | 9 | `DonnC` | 147 | 90 | [🔗](https://github.com/DonnC) |
 | 10 | `Elisvobs` | 146 | 39 | [🔗](https://github.com/Elisvobs) |
 | 11 | `michaeldera` | 128 | 35 | [🔗](https://github.com/michaeldera) |
@@ -27,9 +27,9 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 16 | `terrameijar` | 100 | 50 | [🔗](https://github.com/terrameijar) |
 | 17 | `Amen-Musingarimi` | 99 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
 | 18 | `zinyando` | 94 | 100 | [🔗](https://github.com/zinyando) |
-| 19 | `sibandadonty` | 89 | 3 | [🔗](https://github.com/sibandadonty) |
-| 20 | `gtchakama` | 89 | 78 | [🔗](https://github.com/gtchakama) |
-| 21 | `mrfr8nk` | 89 | 54 | [🔗](https://github.com/mrfr8nk) |
+| 19 | `mrfr8nk` | 91 | 54 | [🔗](https://github.com/mrfr8nk) |
+| 20 | `sibandadonty` | 89 | 3 | [🔗](https://github.com/sibandadonty) |
+| 21 | `gtchakama` | 89 | 78 | [🔗](https://github.com/gtchakama) |
 | 22 | `ronna` | 88 | 36 | [🔗](https://github.com/ronna) |
 | 23 | `xeroxzen` | 87 | 104 | [🔗](https://github.com/xeroxzen) |
 | 24 | `123nicky` | 86 | 7 | [🔗](https://github.com/123nicky) |
@@ -42,8 +42,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 31 | `Dalu-Buhle` | 68 | 20 | [🔗](https://github.com/Dalu-Buhle) |
 | 32 | `Cod3Uchiha` | 67 | 13 | [🔗](https://github.com/Cod3Uchiha) |
 | 33 | `tongoonamujera` | 64 | 32 | [🔗](https://github.com/tongoonamujera) |
-| 34 | `GoldenEye37` | 64 | 45 | [🔗](https://github.com/GoldenEye37) |
-| 35 | `RHavar` | 63 | 19 | [🔗](https://github.com/RHavar) |
+| 34 | `RHavar` | 63 | 19 | [🔗](https://github.com/RHavar) |
+| 35 | `GoldenEye37` | 63 | 45 | [🔗](https://github.com/GoldenEye37) |
 | 36 | `TheGodOfAwesome` | 60 | 162 | [🔗](https://github.com/TheGodOfAwesome) |
 | 37 | `Bshata` | 56 | 9 | [🔗](https://github.com/Bshata) |
 | 38 | `Munyaradzi-Chigangawa` | 54 | 37 | [🔗](https://github.com/Munyaradzi-Chigangawa) |
@@ -97,10 +97,10 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 86 | `richard-muvirimi` | 29 | 51 | [🔗](https://github.com/richard-muvirimi) |
 | 87 | `tafadzwaonline` | 29 | 9 | [🔗](https://github.com/tafadzwaonline) |
 | 88 | `Henrix06` | 29 | 18 | [🔗](https://github.com/Henrix06) |
-| 89 | `TheArtifulProgrammer` | 29 | 53 | [🔗](https://github.com/TheArtifulProgrammer) |
-| 90 | `sheltshamu` | 29 | 47 | [🔗](https://github.com/sheltshamu) |
-| 91 | `paulshaun-kdtk` | 28 | 35 | [🔗](https://github.com/paulshaun-kdtk) |
-| 92 | `Draxeytina` | 28 | 54 | [🔗](https://github.com/Draxeytina) |
+| 89 | `sheltshamu` | 29 | 47 | [🔗](https://github.com/sheltshamu) |
+| 90 | `paulshaun-kdtk` | 28 | 35 | [🔗](https://github.com/paulshaun-kdtk) |
+| 91 | `Draxeytina` | 28 | 54 | [🔗](https://github.com/Draxeytina) |
+| 92 | `TheArtifulProgrammer` | 28 | 53 | [🔗](https://github.com/TheArtifulProgrammer) |
 | 93 | `cliff688` | 27 | 26 | [🔗](https://github.com/cliff688) |
 | 94 | `ceekaymats` | 27 | 14 | [🔗](https://github.com/ceekaymats) |
 | 95 | `mutinhiri` | 27 | 81 | [🔗](https://github.com/mutinhiri) |
