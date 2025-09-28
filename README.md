@@ -5,15 +5,15 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-09-27 04:21 UTC  
+**Last updated:** 2025-09-28 04:21 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 3303 | 9 | [🔗](https://github.com/AyuGram) |
+| 1 | `AyuGram` | 3308 | 9 | [🔗](https://github.com/AyuGram) |
 | 2 | `skyridertk` | 196 | 45 | [🔗](https://github.com/skyridertk) |
 | 3 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 4 | `alistairholmes` | 177 | 110 | [🔗](https://github.com/alistairholmes) |
-| 5 | `prjctimg` | 175 | 6 | [🔗](https://github.com/prjctimg) |
+| 5 | `prjctimg` | 175 | 7 | [🔗](https://github.com/prjctimg) |
 | 6 | `protendai` | 167 | 17 | [🔗](https://github.com/protendai) |
 | 7 | `sirx2713` | 166 | 520 | [🔗](https://github.com/sirx2713) |
 | 8 | `kudak3` | 161 | 25 | [🔗](https://github.com/kudak3) |
@@ -26,12 +26,12 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 15 | `NyashaKays` | 101 | 18 | [🔗](https://github.com/NyashaKays) |
 | 16 | `Amen-Musingarimi` | 100 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
 | 17 | `terrameijar` | 100 | 50 | [🔗](https://github.com/terrameijar) |
-| 18 | `mrfr8nk` | 99 | 63 | [🔗](https://github.com/mrfr8nk) |
+| 18 | `mrfr8nk` | 100 | 63 | [🔗](https://github.com/mrfr8nk) |
 | 19 | `zinyando` | 98 | 101 | [🔗](https://github.com/zinyando) |
 | 20 | `xeroxzen` | 90 | 104 | [🔗](https://github.com/xeroxzen) |
 | 21 | `gtchakama` | 89 | 78 | [🔗](https://github.com/gtchakama) |
-| 22 | `sibandadonty` | 88 | 2 | [🔗](https://github.com/sibandadonty) |
-| 23 | `ronna` | 88 | 36 | [🔗](https://github.com/ronna) |
+| 22 | `ronna` | 89 | 36 | [🔗](https://github.com/ronna) |
+| 23 | `sibandadonty` | 88 | 2 | [🔗](https://github.com/sibandadonty) |
 | 24 | `nigelreign` | 86 | 61 | [🔗](https://github.com/nigelreign) |
 | 25 | `123nicky` | 86 | 7 | [🔗](https://github.com/123nicky) |
 | 26 | `brighton0102` | 83 | 51 | [🔗](https://github.com/brighton0102) |
@@ -61,36 +61,36 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 50 | `terencetachiona` | 47 | 28 | [🔗](https://github.com/terencetachiona) |
 | 51 | `tyfahpundo` | 47 | 80 | [🔗](https://github.com/tyfahpundo) |
 | 52 | `AdornChoga` | 46 | 28 | [🔗](https://github.com/AdornChoga) |
-| 53 | `ivanov660` | 45 | 4 | [🔗](https://github.com/ivanov660) |
-| 54 | `ChikangaTakudzwa` | 44 | 53 | [🔗](https://github.com/ChikangaTakudzwa) |
-| 55 | `simon-kachepa` | 44 | 22 | [🔗](https://github.com/simon-kachepa) |
-| 56 | `berzel` | 43 | 5 | [🔗](https://github.com/berzel) |
-| 57 | `nia-cloud-official` | 43 | 43 | [🔗](https://github.com/nia-cloud-official) |
+| 53 | `simon-kachepa` | 45 | 22 | [🔗](https://github.com/simon-kachepa) |
+| 54 | `ivanov660` | 45 | 4 | [🔗](https://github.com/ivanov660) |
+| 55 | `ChikangaTakudzwa` | 44 | 53 | [🔗](https://github.com/ChikangaTakudzwa) |
+| 56 | `nia-cloud-official` | 44 | 43 | [🔗](https://github.com/nia-cloud-official) |
+| 57 | `berzel` | 43 | 5 | [🔗](https://github.com/berzel) |
 | 58 | `telthemweb` | 41 | 108 | [🔗](https://github.com/telthemweb) |
 | 59 | `bevennyamande` | 40 | 152 | [🔗](https://github.com/bevennyamande) |
 | 60 | `MarlvinzW` | 40 | 28 | [🔗](https://github.com/MarlvinzW) |
 | 61 | `tate2301` | 40 | 77 | [🔗](https://github.com/tate2301) |
 | 62 | `Towernter` | 40 | 19 | [🔗](https://github.com/Towernter) |
 | 63 | `mikeyny` | 39 | 63 | [🔗](https://github.com/mikeyny) |
-| 64 | `gitnyasha` | 37 | 79 | [🔗](https://github.com/gitnyasha) |
-| 65 | `lordememphis` | 37 | 19 | [🔗](https://github.com/lordememphis) |
-| 66 | `paynow` | 37 | 13 | [🔗](https://github.com/paynow) |
-| 67 | `VincentMugondora` | 36 | 91 | [🔗](https://github.com/VincentMugondora) |
+| 64 | `paynow` | 37 | 13 | [🔗](https://github.com/paynow) |
+| 65 | `VincentMugondora` | 36 | 91 | [🔗](https://github.com/VincentMugondora) |
+| 66 | `gitnyasha` | 36 | 79 | [🔗](https://github.com/gitnyasha) |
+| 67 | `lordememphis` | 36 | 19 | [🔗](https://github.com/lordememphis) |
 | 68 | `Bongani-io` | 35 | 11 | [🔗](https://github.com/Bongani-io) |
-| 69 | `TendayiKunaka` | 35 | 9 | [🔗](https://github.com/TendayiKunaka) |
-| 70 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
-| 71 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
-| 72 | `gwokudasam` | 34 | 279 | [🔗](https://github.com/gwokudasam) |
-| 73 | `bmukorera` | 34 | 28 | [🔗](https://github.com/bmukorera) |
+| 69 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
+| 70 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
+| 71 | `gwokudasam` | 34 | 279 | [🔗](https://github.com/gwokudasam) |
+| 72 | `bmukorera` | 34 | 28 | [🔗](https://github.com/bmukorera) |
+| 73 | `TendayiKunaka` | 34 | 9 | [🔗](https://github.com/TendayiKunaka) |
 | 74 | `omryzw` | 34 | 46 | [🔗](https://github.com/omryzw) |
 | 75 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
 | 76 | `bryanvengwa` | 33 | 62 | [🔗](https://github.com/bryanvengwa) |
-| 77 | `isheunesutembo` | 33 | 65 | [🔗](https://github.com/isheunesutembo) |
-| 78 | `rodney-m` | 32 | 114 | [🔗](https://github.com/rodney-m) |
-| 79 | `layan2k` | 32 | 41 | [🔗](https://github.com/layan2k) |
-| 80 | `banQomania` | 32 | 66 | [🔗](https://github.com/banQomania) |
-| 81 | `alecmus` | 31 | 38 | [🔗](https://github.com/alecmus) |
-| 82 | `rbryanben` | 31 | 17 | [🔗](https://github.com/rbryanben) |
+| 77 | `rodney-m` | 32 | 114 | [🔗](https://github.com/rodney-m) |
+| 78 | `layan2k` | 32 | 41 | [🔗](https://github.com/layan2k) |
+| 79 | `banQomania` | 32 | 66 | [🔗](https://github.com/banQomania) |
+| 80 | `alecmus` | 31 | 38 | [🔗](https://github.com/alecmus) |
+| 81 | `rbryanben` | 31 | 17 | [🔗](https://github.com/rbryanben) |
+| 82 | `isheunesutembo` | 31 | 65 | [🔗](https://github.com/isheunesutembo) |
 | 83 | `tsitsiflora` | 31 | 30 | [🔗](https://github.com/tsitsiflora) |
 | 84 | `Ngonie-x` | 31 | 42 | [🔗](https://github.com/Ngonie-x) |
 | 85 | `paulshaun-kdtk` | 30 | 35 | [🔗](https://github.com/paulshaun-kdtk) |
