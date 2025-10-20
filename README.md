@@ -5,16 +5,16 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-10-19 04:23 UTC  
+**Last updated:** 2025-10-20 04:25 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 3443 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `mrfr8nk` | 204 | 74 | [🔗](https://github.com/mrfr8nk) |
+| 1 | `AyuGram` | 3448 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `mrfr8nk` | 208 | 74 | [🔗](https://github.com/mrfr8nk) |
 | 3 | `skyridertk` | 201 | 45 | [🔗](https://github.com/skyridertk) |
 | 4 | `blessing-mufaro` | 184 | 26 | [🔗](https://github.com/blessing-mufaro) |
-| 5 | `alistairholmes` | 175 | 111 | [🔗](https://github.com/alistairholmes) |
-| 6 | `prjctimg` | 175 | 5 | [🔗](https://github.com/prjctimg) |
+| 5 | `alistairholmes` | 176 | 111 | [🔗](https://github.com/alistairholmes) |
+| 6 | `prjctimg` | 176 | 5 | [🔗](https://github.com/prjctimg) |
 | 7 | `protendai` | 166 | 17 | [🔗](https://github.com/protendai) |
 | 8 | `sirx2713` | 164 | 521 | [🔗](https://github.com/sirx2713) |
 | 9 | `kudak3` | 162 | 25 | [🔗](https://github.com/kudak3) |
@@ -33,8 +33,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 22 | `gtchakama` | 89 | 78 | [🔗](https://github.com/gtchakama) |
 | 23 | `sibandadonty` | 88 | 3 | [🔗](https://github.com/sibandadonty) |
 | 24 | `123nicky` | 87 | 7 | [🔗](https://github.com/123nicky) |
-| 25 | `nigelreign` | 83 | 61 | [🔗](https://github.com/nigelreign) |
-| 26 | `kukuthecoder` | 83 | 7 | [🔗](https://github.com/kukuthecoder) |
+| 25 | `kukuthecoder` | 84 | 7 | [🔗](https://github.com/kukuthecoder) |
+| 26 | `nigelreign` | 83 | 61 | [🔗](https://github.com/nigelreign) |
 | 27 | `brighton0102` | 82 | 51 | [🔗](https://github.com/brighton0102) |
 | 28 | `PrettyR` | 79 | 10 | [🔗](https://github.com/PrettyR) |
 | 29 | `kudapara` | 77 | 82 | [🔗](https://github.com/kudapara) |
@@ -86,17 +86,17 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 75 | `Bongani-io` | 33 | 11 | [🔗](https://github.com/Bongani-io) |
 | 76 | `TendayiKunaka` | 33 | 9 | [🔗](https://github.com/TendayiKunaka) |
 | 77 | `Ngonie-x` | 33 | 42 | [🔗](https://github.com/Ngonie-x) |
-| 78 | `omryzw` | 32 | 46 | [🔗](https://github.com/omryzw) |
-| 79 | `banQomania` | 32 | 66 | [🔗](https://github.com/banQomania) |
-| 80 | `TheArtifulProgrammer` | 32 | 57 | [🔗](https://github.com/TheArtifulProgrammer) |
+| 78 | `TheArtifulProgrammer` | 33 | 57 | [🔗](https://github.com/TheArtifulProgrammer) |
+| 79 | `omryzw` | 32 | 46 | [🔗](https://github.com/omryzw) |
+| 80 | `banQomania` | 32 | 66 | [🔗](https://github.com/banQomania) |
 | 81 | `alecmus` | 31 | 38 | [🔗](https://github.com/alecmus) |
 | 82 | `rbryanben` | 31 | 17 | [🔗](https://github.com/rbryanben) |
 | 83 | `layan2k` | 31 | 43 | [🔗](https://github.com/layan2k) |
 | 84 | `isheunesutembo` | 31 | 64 | [🔗](https://github.com/isheunesutembo) |
 | 85 | `tsitsiflora` | 31 | 30 | [🔗](https://github.com/tsitsiflora) |
 | 86 | `richard-muvirimi` | 30 | 52 | [🔗](https://github.com/richard-muvirimi) |
-| 87 | `cliff688` | 30 | 27 | [🔗](https://github.com/cliff688) |
-| 88 | `rodney-m` | 30 | 114 | [🔗](https://github.com/rodney-m) |
+| 87 | `rodney-m` | 30 | 114 | [🔗](https://github.com/rodney-m) |
+| 88 | `cliff688` | 30 | 27 | [🔗](https://github.com/cliff688) |
 | 89 | `im-machakata` | 30 | 25 | [🔗](https://github.com/im-machakata) |
 | 90 | `tafadzwaonline` | 29 | 9 | [🔗](https://github.com/tafadzwaonline) |
 | 91 | `Henrix06` | 29 | 19 | [🔗](https://github.com/Henrix06) |
@@ -104,8 +104,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 93 | `dzinampini` | 28 | 66 | [🔗](https://github.com/dzinampini) |
 | 94 | `sheltshamu` | 28 | 47 | [🔗](https://github.com/sheltshamu) |
 | 95 | `mpumzee` | 27 | 30 | [🔗](https://github.com/mpumzee) |
-| 96 | `charle-k` | 27 | 16 | [🔗](https://github.com/charle-k) |
-| 97 | `Draxeytina` | 27 | 54 | [🔗](https://github.com/Draxeytina) |
+| 96 | `Draxeytina` | 27 | 54 | [🔗](https://github.com/Draxeytina) |
+| 97 | `charle-k` | 27 | 16 | [🔗](https://github.com/charle-k) |
 | 98 | `Tauya2003` | 27 | 53 | [🔗](https://github.com/Tauya2003) |
 | 99 | `ceekaymats` | 26 | 14 | [🔗](https://github.com/ceekaymats) |
 | 100 | `mutinhiri` | 26 | 82 | [🔗](https://github.com/mutinhiri) |
