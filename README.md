@@ -5,20 +5,20 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-11-12 04:24 UTC  
+**Last updated:** 2025-11-13 04:25 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 3652 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 741 | 24 | [🔗](https://github.com/sehmaluva) |
-| 3 | `mrfr8nk` | 300 | 83 | [🔗](https://github.com/mrfr8nk) |
+| 1 | `AyuGram` | 3661 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 764 | 24 | [🔗](https://github.com/sehmaluva) |
+| 3 | `mrfr8nk` | 307 | 83 | [🔗](https://github.com/mrfr8nk) |
 | 4 | `skyridertk` | 203 | 45 | [🔗](https://github.com/skyridertk) |
 | 5 | `blessing-mufaro` | 184 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 6 | `alistairholmes` | 177 | 111 | [🔗](https://github.com/alistairholmes) |
-| 7 | `sirx2713` | 165 | 521 | [🔗](https://github.com/sirx2713) |
-| 8 | `protendai` | 165 | 17 | [🔗](https://github.com/protendai) |
+| 7 | `protendai` | 165 | 17 | [🔗](https://github.com/protendai) |
+| 8 | `sirx2713` | 164 | 521 | [🔗](https://github.com/sirx2713) |
 | 9 | `kudak3` | 162 | 25 | [🔗](https://github.com/kudak3) |
-| 10 | `Elisvobs` | 147 | 39 | [🔗](https://github.com/Elisvobs) |
+| 10 | `Elisvobs` | 148 | 39 | [🔗](https://github.com/Elisvobs) |
 | 11 | `DonnC` | 145 | 91 | [🔗](https://github.com/DonnC) |
 | 12 | `michaeldera` | 129 | 35 | [🔗](https://github.com/michaeldera) |
 | 13 | `zim-bot` | 111 | 10 | [🔗](https://github.com/zim-bot) |
@@ -26,8 +26,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 15 | `ibnufaqih77` | 101 | 1 | [🔗](https://github.com/ibnufaqih77) |
 | 16 | `NyashaKays` | 101 | 18 | [🔗](https://github.com/NyashaKays) |
 | 17 | `terrameijar` | 100 | 50 | [🔗](https://github.com/terrameijar) |
-| 18 | `Amen-Musingarimi` | 97 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
-| 19 | `zinyando` | 97 | 101 | [🔗](https://github.com/zinyando) |
+| 18 | `zinyando` | 97 | 101 | [🔗](https://github.com/zinyando) |
+| 19 | `Amen-Musingarimi` | 96 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
 | 20 | `ronna` | 91 | 36 | [🔗](https://github.com/ronna) |
 | 21 | `xeroxzen` | 91 | 104 | [🔗](https://github.com/xeroxzen) |
 | 22 | `gtchakama` | 90 | 79 | [🔗](https://github.com/gtchakama) |
@@ -35,19 +35,19 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 24 | `123nicky` | 86 | 7 | [🔗](https://github.com/123nicky) |
 | 25 | `kukuthecoder` | 84 | 7 | [🔗](https://github.com/kukuthecoder) |
 | 26 | `nigelreign` | 83 | 62 | [🔗](https://github.com/nigelreign) |
-| 27 | `brighton0102` | 82 | 51 | [🔗](https://github.com/brighton0102) |
+| 27 | `brighton0102` | 81 | 51 | [🔗](https://github.com/brighton0102) |
 | 28 | `PrettyR` | 79 | 10 | [🔗](https://github.com/PrettyR) |
 | 29 | `kudapara` | 78 | 81 | [🔗](https://github.com/kudapara) |
 | 30 | `loktioncode` | 74 | 207 | [🔗](https://github.com/loktioncode) |
 | 31 | `Dalu-Buhle` | 69 | 20 | [🔗](https://github.com/Dalu-Buhle) |
-| 32 | `Cod3Uchiha` | 68 | 18 | [🔗](https://github.com/Cod3Uchiha) |
+| 32 | `Cod3Uchiha` | 69 | 18 | [🔗](https://github.com/Cod3Uchiha) |
 | 33 | `GoldenEye37` | 68 | 46 | [🔗](https://github.com/GoldenEye37) |
 | 34 | `tongoonamujera` | 65 | 32 | [🔗](https://github.com/tongoonamujera) |
 | 35 | `RHavar` | 63 | 19 | [🔗](https://github.com/RHavar) |
-| 36 | `ndoubismarck` | 61 | 16 | [🔗](https://github.com/ndoubismarck) |
+| 36 | `ndoubismarck` | 60 | 16 | [🔗](https://github.com/ndoubismarck) |
 | 37 | `TheGodOfAwesome` | 58 | 163 | [🔗](https://github.com/TheGodOfAwesome) |
-| 38 | `codewithkin` | 57 | 102 | [🔗](https://github.com/codewithkin) |
-| 39 | `Bshata` | 56 | 9 | [🔗](https://github.com/Bshata) |
+| 38 | `Bshata` | 56 | 9 | [🔗](https://github.com/Bshata) |
+| 39 | `codewithkin` | 56 | 102 | [🔗](https://github.com/codewithkin) |
 | 40 | `TaqsBlaze` | 55 | 66 | [🔗](https://github.com/TaqsBlaze) |
 | 41 | `Munyaradzi-Chigangawa` | 54 | 37 | [🔗](https://github.com/Munyaradzi-Chigangawa) |
 | 42 | `ntsingo` | 53 | 9 | [🔗](https://github.com/ntsingo) |
@@ -89,12 +89,12 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 78 | `Ngonie-x` | 33 | 42 | [🔗](https://github.com/Ngonie-x) |
 | 79 | `immachakata` | 33 | 25 | [🔗](https://github.com/immachakata) |
 | 80 | `Henrix06` | 32 | 19 | [🔗](https://github.com/Henrix06) |
-| 81 | `TendayiKunaka` | 32 | 9 | [🔗](https://github.com/TendayiKunaka) |
-| 82 | `omryzw` | 32 | 46 | [🔗](https://github.com/omryzw) |
-| 83 | `alecmus` | 31 | 38 | [🔗](https://github.com/alecmus) |
-| 84 | `layan2k` | 31 | 43 | [🔗](https://github.com/layan2k) |
-| 85 | `rbryanben` | 31 | 18 | [🔗](https://github.com/rbryanben) |
-| 86 | `isheunesutembo` | 31 | 64 | [🔗](https://github.com/isheunesutembo) |
+| 81 | `omryzw` | 32 | 46 | [🔗](https://github.com/omryzw) |
+| 82 | `alecmus` | 31 | 38 | [🔗](https://github.com/alecmus) |
+| 83 | `layan2k` | 31 | 43 | [🔗](https://github.com/layan2k) |
+| 84 | `rbryanben` | 31 | 18 | [🔗](https://github.com/rbryanben) |
+| 85 | `isheunesutembo` | 31 | 64 | [🔗](https://github.com/isheunesutembo) |
+| 86 | `TendayiKunaka` | 31 | 9 | [🔗](https://github.com/TendayiKunaka) |
 | 87 | `tsitsiflora` | 31 | 30 | [🔗](https://github.com/tsitsiflora) |
 | 88 | `richard-muvirimi` | 30 | 52 | [🔗](https://github.com/richard-muvirimi) |
 | 89 | `rodney-m` | 30 | 114 | [🔗](https://github.com/rodney-m) |
@@ -106,8 +106,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 95 | `mutinhiri` | 28 | 83 | [🔗](https://github.com/mutinhiri) |
 | 96 | `dzinampini` | 28 | 66 | [🔗](https://github.com/dzinampini) |
 | 97 | `foxxmg` | 28 | 57 | [🔗](https://github.com/foxxmg) |
-| 98 | `sheltshamu` | 28 | 47 | [🔗](https://github.com/sheltshamu) |
-| 99 | `Tauya2003` | 28 | 53 | [🔗](https://github.com/Tauya2003) |
+| 98 | `Tauya2003` | 28 | 53 | [🔗](https://github.com/Tauya2003) |
+| 99 | `sheltshamu` | 28 | 47 | [🔗](https://github.com/sheltshamu) |
 | 100 | `mpumzee` | 27 | 30 | [🔗](https://github.com/mpumzee) |
 <!-- END LEADERBOARD -->
 
