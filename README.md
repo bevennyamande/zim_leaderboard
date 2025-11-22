@@ -5,33 +5,33 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-11-21 04:24 UTC  
+**Last updated:** 2025-11-22 04:23 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 3731 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 861 | 24 | [🔗](https://github.com/sehmaluva) |
-| 3 | `mrfr8nk` | 313 | 85 | [🔗](https://github.com/mrfr8nk) |
-| 4 | `skyridertk` | 199 | 44 | [🔗](https://github.com/skyridertk) |
+| 1 | `AyuGram` | 3744 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 875 | 24 | [🔗](https://github.com/sehmaluva) |
+| 3 | `mrfr8nk` | 321 | 85 | [🔗](https://github.com/mrfr8nk) |
+| 4 | `skyridertk` | 200 | 44 | [🔗](https://github.com/skyridertk) |
 | 5 | `blessing-mufaro` | 184 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 6 | `alistairholmes` | 177 | 111 | [🔗](https://github.com/alistairholmes) |
 | 7 | `sirx2713` | 165 | 521 | [🔗](https://github.com/sirx2713) |
 | 8 | `protendai` | 165 | 17 | [🔗](https://github.com/protendai) |
-| 9 | `kudak3` | 161 | 25 | [🔗](https://github.com/kudak3) |
+| 9 | `kudak3` | 162 | 25 | [🔗](https://github.com/kudak3) |
 | 10 | `Elisvobs` | 148 | 39 | [🔗](https://github.com/Elisvobs) |
 | 11 | `DonnC` | 148 | 91 | [🔗](https://github.com/DonnC) |
-| 12 | `michaeldera` | 128 | 35 | [🔗](https://github.com/michaeldera) |
-| 13 | `zim-bot` | 112 | 10 | [🔗](https://github.com/zim-bot) |
-| 14 | `Ju99ernaut` | 108 | 84 | [🔗](https://github.com/Ju99ernaut) |
-| 15 | `ibnufaqih77` | 101 | 1 | [🔗](https://github.com/ibnufaqih77) |
-| 16 | `NyashaKays` | 101 | 18 | [🔗](https://github.com/NyashaKays) |
-| 17 | `terrameijar` | 100 | 50 | [🔗](https://github.com/terrameijar) |
-| 18 | `zinyando` | 99 | 101 | [🔗](https://github.com/zinyando) |
-| 19 | `Amen-Musingarimi` | 96 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
-| 20 | `ronna` | 91 | 36 | [🔗](https://github.com/ronna) |
-| 21 | `xeroxzen` | 91 | 104 | [🔗](https://github.com/xeroxzen) |
-| 22 | `gtchakama` | 90 | 79 | [🔗](https://github.com/gtchakama) |
-| 23 | `KnowledgeSeeker101-bit` | 90 | 6 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 12 | `KnowledgeSeeker101-bit` | 143 | 6 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 13 | `michaeldera` | 128 | 35 | [🔗](https://github.com/michaeldera) |
+| 14 | `zim-bot` | 112 | 10 | [🔗](https://github.com/zim-bot) |
+| 15 | `Ju99ernaut` | 108 | 84 | [🔗](https://github.com/Ju99ernaut) |
+| 16 | `ibnufaqih77` | 101 | 1 | [🔗](https://github.com/ibnufaqih77) |
+| 17 | `NyashaKays` | 101 | 18 | [🔗](https://github.com/NyashaKays) |
+| 18 | `terrameijar` | 100 | 50 | [🔗](https://github.com/terrameijar) |
+| 19 | `zinyando` | 99 | 101 | [🔗](https://github.com/zinyando) |
+| 20 | `Amen-Musingarimi` | 96 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
+| 21 | `ronna` | 92 | 36 | [🔗](https://github.com/ronna) |
+| 22 | `xeroxzen` | 91 | 104 | [🔗](https://github.com/xeroxzen) |
+| 23 | `gtchakama` | 90 | 79 | [🔗](https://github.com/gtchakama) |
 | 24 | `sibandadonty` | 88 | 3 | [🔗](https://github.com/sibandadonty) |
 | 25 | `123nicky` | 86 | 7 | [🔗](https://github.com/123nicky) |
 | 26 | `kukuthecoder` | 84 | 7 | [🔗](https://github.com/kukuthecoder) |
@@ -51,11 +51,11 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 40 | `codewithkin` | 56 | 102 | [🔗](https://github.com/codewithkin) |
 | 41 | `TaqsBlaze` | 55 | 66 | [🔗](https://github.com/TaqsBlaze) |
 | 42 | `Munyaradzi-Chigangawa` | 54 | 37 | [🔗](https://github.com/Munyaradzi-Chigangawa) |
-| 43 | `invincyx` | 53 | 16 | [🔗](https://github.com/invincyx) |
-| 44 | `ntsingo` | 53 | 9 | [🔗](https://github.com/ntsingo) |
-| 45 | `hbutau` | 53 | 101 | [🔗](https://github.com/hbutau) |
-| 46 | `simbaTmotsi` | 52 | 47 | [🔗](https://github.com/simbaTmotsi) |
-| 47 | `iamstan13y` | 52 | 146 | [🔗](https://github.com/iamstan13y) |
+| 43 | `ntsingo` | 53 | 9 | [🔗](https://github.com/ntsingo) |
+| 44 | `hbutau` | 53 | 101 | [🔗](https://github.com/hbutau) |
+| 45 | `simbaTmotsi` | 52 | 47 | [🔗](https://github.com/simbaTmotsi) |
+| 46 | `iamstan13y` | 52 | 146 | [🔗](https://github.com/iamstan13y) |
+| 47 | `invincyx` | 52 | 16 | [🔗](https://github.com/invincyx) |
 | 48 | `takumade` | 51 | 32 | [🔗](https://github.com/takumade) |
 | 49 | `Stephanie041996` | 50 | 56 | [🔗](https://github.com/Stephanie041996) |
 | 50 | `TadiwanasheZvidzaRodney` | 48 | 48 | [🔗](https://github.com/TadiwanasheZvidzaRodney) |
@@ -67,7 +67,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 56 | `simon-kachepa` | 44 | 22 | [🔗](https://github.com/simon-kachepa) |
 | 57 | `tate2301` | 44 | 86 | [🔗](https://github.com/tate2301) |
 | 58 | `ChikangaTakudzwa` | 43 | 54 | [🔗](https://github.com/ChikangaTakudzwa) |
-| 59 | `telthemweb` | 42 | 108 | [🔗](https://github.com/telthemweb) |
+| 59 | `telthemweb` | 43 | 108 | [🔗](https://github.com/telthemweb) |
 | 60 | `bevennyamande` | 41 | 152 | [🔗](https://github.com/bevennyamande) |
 | 61 | `MarlvinzW` | 41 | 28 | [🔗](https://github.com/MarlvinzW) |
 | 62 | `berzel` | 41 | 5 | [🔗](https://github.com/berzel) |
