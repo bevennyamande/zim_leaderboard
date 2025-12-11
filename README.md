@@ -5,19 +5,19 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2025-12-10 04:33 UTC  
+**Last updated:** 2025-12-11 04:35 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 3877 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 998 | 31 | [🔗](https://github.com/sehmaluva) |
-| 3 | `mrfr8nk` | 372 | 86 | [🔗](https://github.com/mrfr8nk) |
-| 4 | `KnowledgeSeeker101-bit` | 295 | 7 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 1 | `AyuGram` | 3885 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1006 | 31 | [🔗](https://github.com/sehmaluva) |
+| 3 | `mrfr8nk` | 376 | 86 | [🔗](https://github.com/mrfr8nk) |
+| 4 | `KnowledgeSeeker101-bit` | 296 | 7 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
 | 5 | `skyridertk` | 195 | 44 | [🔗](https://github.com/skyridertk) |
 | 6 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 7 | `alistairholmes` | 177 | 111 | [🔗](https://github.com/alistairholmes) |
 | 8 | `sirx2713` | 167 | 521 | [🔗](https://github.com/sirx2713) |
-| 9 | `protendai` | 165 | 17 | [🔗](https://github.com/protendai) |
+| 9 | `protendai` | 166 | 17 | [🔗](https://github.com/protendai) |
 | 10 | `kudak3` | 164 | 25 | [🔗](https://github.com/kudak3) |
 | 11 | `DonnC` | 152 | 92 | [🔗](https://github.com/DonnC) |
 | 12 | `Elisvobs` | 147 | 39 | [🔗](https://github.com/Elisvobs) |
@@ -39,7 +39,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 28 | `PrettyR` | 79 | 10 | [🔗](https://github.com/PrettyR) |
 | 29 | `brighton0102` | 79 | 51 | [🔗](https://github.com/brighton0102) |
 | 30 | `kudapara` | 78 | 82 | [🔗](https://github.com/kudapara) |
-| 31 | `loktioncode` | 72 | 208 | [🔗](https://github.com/loktioncode) |
+| 31 | `loktioncode` | 71 | 208 | [🔗](https://github.com/loktioncode) |
 | 32 | `Cod3Uchiha` | 71 | 18 | [🔗](https://github.com/Cod3Uchiha) |
 | 33 | `Dalu-Buhle` | 69 | 20 | [🔗](https://github.com/Dalu-Buhle) |
 | 34 | `GoldenEye37` | 66 | 46 | [🔗](https://github.com/GoldenEye37) |
@@ -76,8 +76,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 65 | `Towernter` | 40 | 19 | [🔗](https://github.com/Towernter) |
 | 66 | `VincentMugondora` | 37 | 98 | [🔗](https://github.com/VincentMugondora) |
 | 67 | `gitnyasha` | 36 | 80 | [🔗](https://github.com/gitnyasha) |
-| 68 | `lordememphis` | 36 | 19 | [🔗](https://github.com/lordememphis) |
-| 69 | `gwokudasam` | 35 | 280 | [🔗](https://github.com/gwokudasam) |
+| 68 | `gwokudasam` | 35 | 280 | [🔗](https://github.com/gwokudasam) |
+| 69 | `lordememphis` | 35 | 19 | [🔗](https://github.com/lordememphis) |
 | 70 | `omryzw` | 35 | 47 | [🔗](https://github.com/omryzw) |
 | 71 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
 | 72 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
@@ -102,11 +102,11 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 91 | `foxxmg` | 30 | 59 | [🔗](https://github.com/foxxmg) |
 | 92 | `TheArtifulProgrammer` | 30 | 60 | [🔗](https://github.com/TheArtifulProgrammer) |
 | 93 | `KumaloWilson` | 29 | 163 | [🔗](https://github.com/KumaloWilson) |
-| 94 | `tafadzwaonline` | 29 | 8 | [🔗](https://github.com/tafadzwaonline) |
-| 95 | `Henrix06` | 29 | 19 | [🔗](https://github.com/Henrix06) |
-| 96 | `ishe19` | 29 | 27 | [🔗](https://github.com/ishe19) |
-| 97 | `mpumzee` | 28 | 30 | [🔗](https://github.com/mpumzee) |
-| 98 | `abcdOfficialzw` | 28 | 51 | [🔗](https://github.com/abcdOfficialzw) |
+| 94 | `Henrix06` | 29 | 19 | [🔗](https://github.com/Henrix06) |
+| 95 | `ishe19` | 29 | 27 | [🔗](https://github.com/ishe19) |
+| 96 | `mpumzee` | 28 | 30 | [🔗](https://github.com/mpumzee) |
+| 97 | `abcdOfficialzw` | 28 | 51 | [🔗](https://github.com/abcdOfficialzw) |
+| 98 | `tafadzwaonline` | 28 | 8 | [🔗](https://github.com/tafadzwaonline) |
 | 99 | `mutinhiri` | 28 | 84 | [🔗](https://github.com/mutinhiri) |
 | 100 | `dzinampini` | 28 | 67 | [🔗](https://github.com/dzinampini) |
 <!-- END LEADERBOARD -->
