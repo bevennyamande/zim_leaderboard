@@ -5,14 +5,14 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-01-30 05:08 UTC  
+**Last updated:** 2026-01-31 05:01 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 4303 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 1137 | 33 | [🔗](https://github.com/sehmaluva) |
+| 1 | `AyuGram` | 4310 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1141 | 33 | [🔗](https://github.com/sehmaluva) |
 | 3 | `mrfr8nk` | 487 | 89 | [🔗](https://github.com/mrfr8nk) |
-| 4 | `KnowledgeSeeker101-bit` | 365 | 7 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 4 | `KnowledgeSeeker101-bit` | 364 | 7 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
 | 5 | `skyridertk` | 196 | 44 | [🔗](https://github.com/skyridertk) |
 | 6 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 7 | `alistairholmes` | 176 | 111 | [🔗](https://github.com/alistairholmes) |
@@ -73,11 +73,11 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 62 | `bevennyamande` | 41 | 153 | [🔗](https://github.com/bevennyamande) |
 | 63 | `mikeyny` | 40 | 64 | [🔗](https://github.com/mikeyny) |
 | 64 | `Towernter` | 40 | 22 | [🔗](https://github.com/Towernter) |
-| 65 | `VincentMugondora` | 37 | 99 | [🔗](https://github.com/VincentMugondora) |
+| 65 | `VincentMugondora` | 37 | 100 | [🔗](https://github.com/VincentMugondora) |
 | 66 | `gwokudasam` | 37 | 280 | [🔗](https://github.com/gwokudasam) |
-| 67 | `gitnyasha` | 36 | 80 | [🔗](https://github.com/gitnyasha) |
-| 68 | `lordememphis` | 36 | 19 | [🔗](https://github.com/lordememphis) |
-| 69 | `cliffordgama` | 35 | 20 | [🔗](https://github.com/cliffordgama) |
+| 67 | `cliffordgama` | 36 | 21 | [🔗](https://github.com/cliffordgama) |
+| 68 | `gitnyasha` | 36 | 80 | [🔗](https://github.com/gitnyasha) |
+| 69 | `lordememphis` | 36 | 19 | [🔗](https://github.com/lordememphis) |
 | 70 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
 | 71 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
 | 72 | `bryanvengwa` | 34 | 62 | [🔗](https://github.com/bryanvengwa) |
@@ -107,8 +107,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 96 | `lordskyzw` | 29 | 50 | [🔗](https://github.com/lordskyzw) |
 | 97 | `mpumzee` | 28 | 30 | [🔗](https://github.com/mpumzee) |
 | 98 | `abcdOfficialzw` | 28 | 52 | [🔗](https://github.com/abcdOfficialzw) |
-| 99 | `mutinhiri` | 28 | 84 | [🔗](https://github.com/mutinhiri) |
-| 100 | `engbnyarambi` | 28 | 8 | [🔗](https://github.com/engbnyarambi) |
+| 99 | `engbnyarambi` | 28 | 8 | [🔗](https://github.com/engbnyarambi) |
+| 100 | `mutinhiri` | 28 | 84 | [🔗](https://github.com/mutinhiri) |
 <!-- END LEADERBOARD -->
 
 > Powered by GitHub Actions + OpenAI braincells
