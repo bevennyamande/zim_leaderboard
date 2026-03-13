@@ -5,18 +5,18 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-03-12 05:15 UTC  
+**Last updated:** 2026-03-13 05:13 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 4670 | 10 | [🔗](https://github.com/AyuGram) |
+| 1 | `AyuGram` | 4675 | 10 | [🔗](https://github.com/AyuGram) |
 | 2 | `sehmaluva` | 1216 | 37 | [🔗](https://github.com/sehmaluva) |
-| 3 | `mrfr8nk` | 519 | 95 | [🔗](https://github.com/mrfr8nk) |
-| 4 | `KnowledgeSeeker101-bit` | 405 | 7 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 3 | `mrfr8nk` | 519 | 96 | [🔗](https://github.com/mrfr8nk) |
+| 4 | `KnowledgeSeeker101-bit` | 403 | 7 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
 | 5 | `skyridertk` | 210 | 46 | [🔗](https://github.com/skyridertk) |
 | 6 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 7 | `alistairholmes` | 175 | 111 | [🔗](https://github.com/alistairholmes) |
-| 8 | `sirx2713` | 169 | 521 | [🔗](https://github.com/sirx2713) |
+| 8 | `sirx2713` | 168 | 521 | [🔗](https://github.com/sirx2713) |
 | 9 | `protendai` | 164 | 17 | [🔗](https://github.com/protendai) |
 | 10 | `kudak3` | 163 | 25 | [🔗](https://github.com/kudak3) |
 | 11 | `DonnC` | 156 | 93 | [🔗](https://github.com/DonnC) |
@@ -42,7 +42,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 31 | `loktioncode` | 73 | 213 | [🔗](https://github.com/loktioncode) |
 | 32 | `Cod3Uchiha` | 73 | 21 | [🔗](https://github.com/Cod3Uchiha) |
 | 33 | `Dalu-Buhle` | 69 | 21 | [🔗](https://github.com/Dalu-Buhle) |
-| 34 | `kculz` | 65 | 61 | [🔗](https://github.com/kculz) |
+| 34 | `kculz` | 68 | 61 | [🔗](https://github.com/kculz) |
 | 35 | `GoldenEye37` | 65 | 46 | [🔗](https://github.com/GoldenEye37) |
 | 36 | `tongoonamujera` | 65 | 32 | [🔗](https://github.com/tongoonamujera) |
 | 37 | `RHavar` | 63 | 19 | [🔗](https://github.com/RHavar) |
@@ -57,8 +57,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 46 | `ntsingo` | 53 | 9 | [🔗](https://github.com/ntsingo) |
 | 47 | `TaqsBlaze` | 52 | 74 | [🔗](https://github.com/TaqsBlaze) |
 | 48 | `iamstan13y` | 50 | 148 | [🔗](https://github.com/iamstan13y) |
-| 49 | `telthemweb` | 50 | 108 | [🔗](https://github.com/telthemweb) |
-| 50 | `Stephanie041996` | 50 | 56 | [🔗](https://github.com/Stephanie041996) |
+| 49 | `Stephanie041996` | 50 | 56 | [🔗](https://github.com/Stephanie041996) |
+| 50 | `telthemweb` | 49 | 108 | [🔗](https://github.com/telthemweb) |
 | 51 | `nia-cloud-official` | 49 | 57 | [🔗](https://github.com/nia-cloud-official) |
 | 52 | `TadiwanasheZvidzaRodney` | 48 | 50 | [🔗](https://github.com/TadiwanasheZvidzaRodney) |
 | 53 | `terencetachiona` | 46 | 28 | [🔗](https://github.com/terencetachiona) |
@@ -93,7 +93,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 82 | `richard-muvirimi` | 32 | 52 | [🔗](https://github.com/richard-muvirimi) |
 | 83 | `alecmus` | 32 | 38 | [🔗](https://github.com/alecmus) |
 | 84 | `Bongani-io` | 32 | 11 | [🔗](https://github.com/Bongani-io) |
-| 85 | `isheunesutembo` | 32 | 65 | [🔗](https://github.com/isheunesutembo) |
+| 85 | `isheunesutembo` | 32 | 66 | [🔗](https://github.com/isheunesutembo) |
 | 86 | `TendayiKunaka` | 32 | 10 | [🔗](https://github.com/TendayiKunaka) |
 | 87 | `immachakata` | 32 | 25 | [🔗](https://github.com/immachakata) |
 | 88 | `KumaloWilson` | 31 | 171 | [🔗](https://github.com/KumaloWilson) |
@@ -105,8 +105,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 94 | `mpumzee` | 29 | 30 | [🔗](https://github.com/mpumzee) |
 | 95 | `johnmugabe` | 29 | 6 | [🔗](https://github.com/johnmugabe) |
 | 96 | `engbnyarambi` | 29 | 8 | [🔗](https://github.com/engbnyarambi) |
-| 97 | `mutinhiri` | 29 | 84 | [🔗](https://github.com/mutinhiri) |
-| 98 | `Henrix06` | 29 | 19 | [🔗](https://github.com/Henrix06) |
+| 97 | `Henrix06` | 29 | 19 | [🔗](https://github.com/Henrix06) |
+| 98 | `mutinhiri` | 29 | 84 | [🔗](https://github.com/mutinhiri) |
 | 99 | `Georgy5` | 29 | 110 | [🔗](https://github.com/Georgy5) |
 | 100 | `Faraimunashe` | 29 | 107 | [🔗](https://github.com/Faraimunashe) |
 <!-- END LEADERBOARD -->
