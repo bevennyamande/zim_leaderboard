@@ -5,16 +5,16 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-04-27 06:27 UTC  
+**Last updated:** 2026-04-28 06:29 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 5018 | 10 | [🔗](https://github.com/AyuGram) |
+| 1 | `AyuGram` | 5036 | 10 | [🔗](https://github.com/AyuGram) |
 | 2 | `sehmaluva` | 1245 | 39 | [🔗](https://github.com/sehmaluva) |
-| 3 | `BlessingKanengoni7` | 996 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
-| 4 | `mrfr8nk` | 569 | 77 | [🔗](https://github.com/mrfr8nk) |
+| 3 | `BlessingKanengoni7` | 1007 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
+| 4 | `mrfr8nk` | 571 | 78 | [🔗](https://github.com/mrfr8nk) |
 | 5 | `KnowledgeSeeker101-bit` | 414 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
-| 6 | `nelsonnzou-crypt` | 287 | 22 | [🔗](https://github.com/nelsonnzou-crypt) |
+| 6 | `nelsonnzou-crypt` | 309 | 22 | [🔗](https://github.com/nelsonnzou-crypt) |
 | 7 | `skyridertk` | 199 | 46 | [🔗](https://github.com/skyridertk) |
 | 8 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 9 | `alistairholmes` | 180 | 111 | [🔗](https://github.com/alistairholmes) |
@@ -27,15 +27,15 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 16 | `zinyando` | 114 | 101 | [🔗](https://github.com/zinyando) |
 | 17 | `zim-bot` | 111 | 10 | [🔗](https://github.com/zim-bot) |
 | 18 | `Ju99ernaut` | 110 | 85 | [🔗](https://github.com/Ju99ernaut) |
-| 19 | `kculz` | 104 | 60 | [🔗](https://github.com/kculz) |
+| 19 | `kculz` | 105 | 60 | [🔗](https://github.com/kculz) |
 | 20 | `terrameijar` | 102 | 50 | [🔗](https://github.com/terrameijar) |
 | 21 | `NyashaKays` | 101 | 19 | [🔗](https://github.com/NyashaKays) |
-| 22 | `ibnufaqih77` | 101 | 1 | [🔗](https://github.com/ibnufaqih77) |
+| 22 | `ibnufaqih77` | 100 | 1 | [🔗](https://github.com/ibnufaqih77) |
 | 23 | `Amen-Musingarimi` | 94 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
-| 24 | `ronna` | 92 | 36 | [🔗](https://github.com/ronna) |
-| 25 | `xeroxzen` | 92 | 107 | [🔗](https://github.com/xeroxzen) |
+| 24 | `xeroxzen` | 92 | 107 | [🔗](https://github.com/xeroxzen) |
+| 25 | `ronna` | 91 | 36 | [🔗](https://github.com/ronna) |
 | 26 | `sibandadonty` | 89 | 3 | [🔗](https://github.com/sibandadonty) |
-| 27 | `brighton0102` | 86 | 52 | [🔗](https://github.com/brighton0102) |
+| 27 | `brighton0102` | 85 | 52 | [🔗](https://github.com/brighton0102) |
 | 28 | `123nicky` | 85 | 7 | [🔗](https://github.com/123nicky) |
 | 29 | `kukuthecoder` | 81 | 7 | [🔗](https://github.com/kukuthecoder) |
 | 30 | `nigelreign` | 80 | 62 | [🔗](https://github.com/nigelreign) |
@@ -57,12 +57,12 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 46 | `ntsingo` | 54 | 9 | [🔗](https://github.com/ntsingo) |
 | 47 | `hbutau` | 54 | 104 | [🔗](https://github.com/hbutau) |
 | 48 | `TaqsBlaze` | 53 | 75 | [🔗](https://github.com/TaqsBlaze) |
-| 49 | `iamstan13y` | 50 | 148 | [🔗](https://github.com/iamstan13y) |
-| 50 | `paynow` | 50 | 12 | [🔗](https://github.com/paynow) |
-| 51 | `Stephanie041996` | 50 | 56 | [🔗](https://github.com/Stephanie041996) |
-| 52 | `TadiwanasheZvidzaRodney` | 49 | 50 | [🔗](https://github.com/TadiwanasheZvidzaRodney) |
-| 53 | `nia-cloud-official` | 49 | 57 | [🔗](https://github.com/nia-cloud-official) |
-| 54 | `terencetachiona` | 46 | 28 | [🔗](https://github.com/terencetachiona) |
+| 49 | `nia-cloud-official` | 51 | 57 | [🔗](https://github.com/nia-cloud-official) |
+| 50 | `iamstan13y` | 50 | 148 | [🔗](https://github.com/iamstan13y) |
+| 51 | `paynow` | 50 | 12 | [🔗](https://github.com/paynow) |
+| 52 | `Stephanie041996` | 50 | 56 | [🔗](https://github.com/Stephanie041996) |
+| 53 | `TadiwanasheZvidzaRodney` | 49 | 50 | [🔗](https://github.com/TadiwanasheZvidzaRodney) |
+| 54 | `terencetachiona` | 46 | 29 | [🔗](https://github.com/terencetachiona) |
 | 55 | `tyfahpundo` | 46 | 80 | [🔗](https://github.com/tyfahpundo) |
 | 56 | `AdornChoga` | 45 | 28 | [🔗](https://github.com/AdornChoga) |
 | 57 | `telthemweb` | 45 | 108 | [🔗](https://github.com/telthemweb) |
