@@ -5,15 +5,15 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-05-11 07:41 UTC  
+**Last updated:** 2026-05-12 06:37 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 5117 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 1246 | 26 | [🔗](https://github.com/sehmaluva) |
-| 3 | `BlessingKanengoni7` | 1105 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
-| 4 | `mrfr8nk` | 577 | 81 | [🔗](https://github.com/mrfr8nk) |
-| 5 | `nelsonnzou-crypt` | 461 | 27 | [🔗](https://github.com/nelsonnzou-crypt) |
+| 1 | `AyuGram` | 5129 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1245 | 26 | [🔗](https://github.com/sehmaluva) |
+| 3 | `BlessingKanengoni7` | 1114 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
+| 4 | `mrfr8nk` | 578 | 81 | [🔗](https://github.com/mrfr8nk) |
+| 5 | `nelsonnzou-crypt` | 469 | 28 | [🔗](https://github.com/nelsonnzou-crypt) |
 | 6 | `KnowledgeSeeker101-bit` | 418 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
 | 7 | `skyridertk` | 196 | 46 | [🔗](https://github.com/skyridertk) |
 | 8 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
@@ -27,13 +27,13 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 16 | `zinyando` | 115 | 101 | [🔗](https://github.com/zinyando) |
 | 17 | `Ju99ernaut` | 111 | 85 | [🔗](https://github.com/Ju99ernaut) |
 | 18 | `zim-bot` | 111 | 10 | [🔗](https://github.com/zim-bot) |
-| 19 | `kculz` | 108 | 60 | [🔗](https://github.com/kculz) |
+| 19 | `kculz` | 109 | 60 | [🔗](https://github.com/kculz) |
 | 20 | `terrameijar` | 102 | 50 | [🔗](https://github.com/terrameijar) |
 | 21 | `NyashaKays` | 102 | 19 | [🔗](https://github.com/NyashaKays) |
 | 22 | `ibnufaqih77` | 100 | 1 | [🔗](https://github.com/ibnufaqih77) |
 | 23 | `Amen-Musingarimi` | 94 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
 | 24 | `ronna` | 93 | 36 | [🔗](https://github.com/ronna) |
-| 25 | `xeroxzen` | 92 | 108 | [🔗](https://github.com/xeroxzen) |
+| 25 | `xeroxzen` | 92 | 109 | [🔗](https://github.com/xeroxzen) |
 | 26 | `sibandadonty` | 89 | 3 | [🔗](https://github.com/sibandadonty) |
 | 27 | `brighton0102` | 86 | 54 | [🔗](https://github.com/brighton0102) |
 | 28 | `123nicky` | 85 | 7 | [🔗](https://github.com/123nicky) |
@@ -97,18 +97,18 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 86 | `KumaloWilson` | 32 | 174 | [🔗](https://github.com/KumaloWilson) |
 | 87 | `CyprianTinasheAarons` | 32 | 189 | [🔗](https://github.com/CyprianTinasheAarons) |
 | 88 | `Extacia21` | 31 | 26 | [🔗](https://github.com/Extacia21) |
-| 89 | `engbnyarambi` | 31 | 8 | [🔗](https://github.com/engbnyarambi) |
-| 90 | `isheunesutembo` | 31 | 66 | [🔗](https://github.com/isheunesutembo) |
-| 91 | `lordskyzw` | 31 | 53 | [🔗](https://github.com/lordskyzw) |
-| 92 | `rodney-m` | 30 | 117 | [🔗](https://github.com/rodney-m) |
+| 89 | `rodney-m` | 31 | 117 | [🔗](https://github.com/rodney-m) |
+| 90 | `engbnyarambi` | 31 | 8 | [🔗](https://github.com/engbnyarambi) |
+| 91 | `isheunesutembo` | 31 | 66 | [🔗](https://github.com/isheunesutembo) |
+| 92 | `lordskyzw` | 31 | 53 | [🔗](https://github.com/lordskyzw) |
 | 93 | `layan2k` | 30 | 43 | [🔗](https://github.com/layan2k) |
 | 94 | `tsitsiflora` | 30 | 30 | [🔗](https://github.com/tsitsiflora) |
 | 95 | `banQomania` | 30 | 66 | [🔗](https://github.com/banQomania) |
 | 96 | `mpumzee` | 29 | 30 | [🔗](https://github.com/mpumzee) |
-| 97 | `mutinhiri` | 29 | 85 | [🔗](https://github.com/mutinhiri) |
-| 98 | `Henrix06` | 29 | 22 | [🔗](https://github.com/Henrix06) |
-| 99 | `Georgy5` | 29 | 110 | [🔗](https://github.com/Georgy5) |
-| 100 | `ishe19` | 29 | 27 | [🔗](https://github.com/ishe19) |
+| 97 | `tafadzwaonline` | 29 | 9 | [🔗](https://github.com/tafadzwaonline) |
+| 98 | `mutinhiri` | 29 | 85 | [🔗](https://github.com/mutinhiri) |
+| 99 | `Henrix06` | 29 | 22 | [🔗](https://github.com/Henrix06) |
+| 100 | `Georgy5` | 29 | 110 | [🔗](https://github.com/Georgy5) |
 <!-- END LEADERBOARD -->
 
 > Powered by GitHub Actions + OpenAI braincells
