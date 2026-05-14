@@ -5,16 +5,16 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-05-13 06:48 UTC  
+**Last updated:** 2026-05-14 06:46 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 5137 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 1256 | 26 | [🔗](https://github.com/sehmaluva) |
-| 3 | `BlessingKanengoni7` | 1122 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
-| 4 | `mrfr8nk` | 577 | 81 | [🔗](https://github.com/mrfr8nk) |
-| 5 | `nelsonnzou-crypt` | 478 | 29 | [🔗](https://github.com/nelsonnzou-crypt) |
-| 6 | `KnowledgeSeeker101-bit` | 427 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 1 | `AyuGram` | 5142 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1268 | 26 | [🔗](https://github.com/sehmaluva) |
+| 3 | `BlessingKanengoni7` | 1129 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
+| 4 | `mrfr8nk` | 576 | 81 | [🔗](https://github.com/mrfr8nk) |
+| 5 | `nelsonnzou-crypt` | 498 | 30 | [🔗](https://github.com/nelsonnzou-crypt) |
+| 6 | `KnowledgeSeeker101-bit` | 432 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
 | 7 | `skyridertk` | 197 | 46 | [🔗](https://github.com/skyridertk) |
 | 8 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 9 | `alistairholmes` | 180 | 111 | [🔗](https://github.com/alistairholmes) |
@@ -24,8 +24,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 13 | `DonnC` | 156 | 95 | [🔗](https://github.com/DonnC) |
 | 14 | `Elisvobs` | 146 | 39 | [🔗](https://github.com/Elisvobs) |
 | 15 | `michaeldera` | 129 | 35 | [🔗](https://github.com/michaeldera) |
-| 16 | `zinyando` | 115 | 101 | [🔗](https://github.com/zinyando) |
-| 17 | `kculz` | 112 | 60 | [🔗](https://github.com/kculz) |
+| 16 | `kculz` | 122 | 60 | [🔗](https://github.com/kculz) |
+| 17 | `zinyando` | 115 | 101 | [🔗](https://github.com/zinyando) |
 | 18 | `Ju99ernaut` | 111 | 85 | [🔗](https://github.com/Ju99ernaut) |
 | 19 | `zim-bot` | 111 | 10 | [🔗](https://github.com/zim-bot) |
 | 20 | `terrameijar` | 102 | 50 | [🔗](https://github.com/terrameijar) |
@@ -35,7 +35,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 24 | `ronna` | 93 | 36 | [🔗](https://github.com/ronna) |
 | 25 | `xeroxzen` | 92 | 109 | [🔗](https://github.com/xeroxzen) |
 | 26 | `sibandadonty` | 89 | 3 | [🔗](https://github.com/sibandadonty) |
-| 27 | `brighton0102` | 86 | 54 | [🔗](https://github.com/brighton0102) |
+| 27 | `brighton0102` | 86 | 55 | [🔗](https://github.com/brighton0102) |
 | 28 | `123nicky` | 85 | 7 | [🔗](https://github.com/123nicky) |
 | 29 | `kukuthecoder` | 81 | 7 | [🔗](https://github.com/kukuthecoder) |
 | 30 | `nigelreign` | 79 | 62 | [🔗](https://github.com/nigelreign) |
@@ -86,13 +86,13 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 75 | `bryanvengwa` | 34 | 62 | [🔗](https://github.com/bryanvengwa) |
 | 76 | `rbryanben` | 34 | 19 | [🔗](https://github.com/rbryanben) |
 | 77 | `bmukorera` | 34 | 28 | [🔗](https://github.com/bmukorera) |
-| 78 | `Ngonie-x` | 34 | 46 | [🔗](https://github.com/Ngonie-x) |
-| 79 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
-| 80 | `alecmus` | 33 | 38 | [🔗](https://github.com/alecmus) |
-| 81 | `Bongani-io` | 33 | 11 | [🔗](https://github.com/Bongani-io) |
-| 82 | `paulshaun-kdtk` | 33 | 36 | [🔗](https://github.com/paulshaun-kdtk) |
-| 83 | `TendayiKunaka` | 33 | 10 | [🔗](https://github.com/TendayiKunaka) |
-| 84 | `omryzw` | 33 | 47 | [🔗](https://github.com/omryzw) |
+| 78 | `omryzw` | 34 | 47 | [🔗](https://github.com/omryzw) |
+| 79 | `Ngonie-x` | 34 | 46 | [🔗](https://github.com/Ngonie-x) |
+| 80 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
+| 81 | `alecmus` | 33 | 38 | [🔗](https://github.com/alecmus) |
+| 82 | `Bongani-io` | 33 | 11 | [🔗](https://github.com/Bongani-io) |
+| 83 | `paulshaun-kdtk` | 33 | 36 | [🔗](https://github.com/paulshaun-kdtk) |
+| 84 | `TendayiKunaka` | 33 | 10 | [🔗](https://github.com/TendayiKunaka) |
 | 85 | `immachakata` | 33 | 25 | [🔗](https://github.com/immachakata) |
 | 86 | `KumaloWilson` | 32 | 174 | [🔗](https://github.com/KumaloWilson) |
 | 87 | `CyprianTinasheAarons` | 32 | 189 | [🔗](https://github.com/CyprianTinasheAarons) |
