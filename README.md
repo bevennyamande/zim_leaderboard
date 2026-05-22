@@ -5,20 +5,20 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-05-21 07:54 UTC  
+**Last updated:** 2026-05-22 07:44 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 5182 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 1264 | 28 | [🔗](https://github.com/sehmaluva) |
-| 3 | `BlessingKanengoni7` | 1158 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
+| 1 | `AyuGram` | 5188 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1265 | 28 | [🔗](https://github.com/sehmaluva) |
+| 3 | `BlessingKanengoni7` | 1165 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
 | 4 | `mrfr8nk` | 582 | 81 | [🔗](https://github.com/mrfr8nk) |
-| 5 | `nelsonnzou-crypt` | 520 | 31 | [🔗](https://github.com/nelsonnzou-crypt) |
+| 5 | `nelsonnzou-crypt` | 520 | 32 | [🔗](https://github.com/nelsonnzou-crypt) |
 | 6 | `KnowledgeSeeker101-bit` | 429 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
-| 7 | `skyridertk` | 206 | 46 | [🔗](https://github.com/skyridertk) |
-| 8 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
+| 7 | `skyridertk` | 207 | 46 | [🔗](https://github.com/skyridertk) |
+| 8 | `blessing-mufaro` | 186 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 9 | `alistairholmes` | 180 | 111 | [🔗](https://github.com/alistairholmes) |
-| 10 | `sirx2713` | 167 | 522 | [🔗](https://github.com/sirx2713) |
+| 10 | `sirx2713` | 166 | 522 | [🔗](https://github.com/sirx2713) |
 | 11 | `protendai` | 164 | 17 | [🔗](https://github.com/protendai) |
 | 12 | `kudak3` | 159 | 25 | [🔗](https://github.com/kudak3) |
 | 13 | `DonnC` | 156 | 95 | [🔗](https://github.com/DonnC) |
@@ -41,7 +41,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 30 | `nigelreign` | 79 | 62 | [🔗](https://github.com/nigelreign) |
 | 31 | `PrettyR` | 78 | 10 | [🔗](https://github.com/PrettyR) |
 | 32 | `loktioncode` | 78 | 225 | [🔗](https://github.com/loktioncode) |
-| 33 | `Cod3Uchiha` | 77 | 21 | [🔗](https://github.com/Cod3Uchiha) |
+| 33 | `Cod3Uchiha` | 78 | 21 | [🔗](https://github.com/Cod3Uchiha) |
 | 34 | `kudapara` | 76 | 83 | [🔗](https://github.com/kudapara) |
 | 35 | `Dalu-Buhle` | 69 | 21 | [🔗](https://github.com/Dalu-Buhle) |
 | 36 | `RHavar` | 64 | 19 | [🔗](https://github.com/RHavar) |
