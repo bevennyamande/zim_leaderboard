@@ -5,21 +5,21 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-05-23 06:33 UTC  
+**Last updated:** 2026-05-24 07:21 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 5193 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 1256 | 28 | [🔗](https://github.com/sehmaluva) |
-| 3 | `BlessingKanengoni7` | 1171 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
+| 1 | `AyuGram` | 5196 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1255 | 29 | [🔗](https://github.com/sehmaluva) |
+| 3 | `BlessingKanengoni7` | 1177 | 6 | [🔗](https://github.com/BlessingKanengoni7) |
 | 4 | `mrfr8nk` | 582 | 81 | [🔗](https://github.com/mrfr8nk) |
-| 5 | `nelsonnzou-crypt` | 525 | 33 | [🔗](https://github.com/nelsonnzou-crypt) |
-| 6 | `KnowledgeSeeker101-bit` | 419 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 5 | `nelsonnzou-crypt` | 542 | 34 | [🔗](https://github.com/nelsonnzou-crypt) |
+| 6 | `KnowledgeSeeker101-bit` | 421 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
 | 7 | `skyridertk` | 199 | 46 | [🔗](https://github.com/skyridertk) |
 | 8 | `blessing-mufaro` | 186 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 9 | `alistairholmes` | 181 | 111 | [🔗](https://github.com/alistairholmes) |
-| 10 | `sirx2713` | 168 | 522 | [🔗](https://github.com/sirx2713) |
-| 11 | `protendai` | 164 | 17 | [🔗](https://github.com/protendai) |
+| 10 | `sirx2713` | 167 | 522 | [🔗](https://github.com/sirx2713) |
+| 11 | `protendai` | 164 | 3 | [🔗](https://github.com/protendai) |
 | 12 | `kudak3` | 159 | 25 | [🔗](https://github.com/kudak3) |
 | 13 | `DonnC` | 156 | 95 | [🔗](https://github.com/DonnC) |
 | 14 | `Elisvobs` | 146 | 39 | [🔗](https://github.com/Elisvobs) |
@@ -47,7 +47,7 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 36 | `RHavar` | 64 | 19 | [🔗](https://github.com/RHavar) |
 | 37 | `tongoonamujera` | 64 | 32 | [🔗](https://github.com/tongoonamujera) |
 | 38 | `GoldenEye37` | 63 | 46 | [🔗](https://github.com/GoldenEye37) |
-| 39 | `codewithkin` | 61 | 121 | [🔗](https://github.com/codewithkin) |
+| 39 | `codewithkin` | 60 | 120 | [🔗](https://github.com/codewithkin) |
 | 40 | `TheGodOfAwesome` | 59 | 173 | [🔗](https://github.com/TheGodOfAwesome) |
 | 41 | `phoscoder` | 58 | 29 | [🔗](https://github.com/phoscoder) |
 | 42 | `Bshata` | 57 | 9 | [🔗](https://github.com/Bshata) |
@@ -79,8 +79,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 68 | `gwokudasam` | 39 | 283 | [🔗](https://github.com/gwokudasam) |
 | 69 | `lordememphis` | 37 | 19 | [🔗](https://github.com/lordememphis) |
 | 70 | `gitnyasha` | 36 | 82 | [🔗](https://github.com/gitnyasha) |
-| 71 | `TheArtifulProgrammer` | 36 | 61 | [🔗](https://github.com/TheArtifulProgrammer) |
-| 72 | `richard-muvirimi` | 35 | 52 | [🔗](https://github.com/richard-muvirimi) |
+| 71 | `richard-muvirimi` | 35 | 52 | [🔗](https://github.com/richard-muvirimi) |
+| 72 | `TheArtifulProgrammer` | 35 | 61 | [🔗](https://github.com/TheArtifulProgrammer) |
 | 73 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
 | 74 | `jowner46` | 34 | 0 | [🔗](https://github.com/jowner46) |
 | 75 | `bryanvengwa` | 34 | 62 | [🔗](https://github.com/bryanvengwa) |
@@ -98,8 +98,8 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 87 | `KumaloWilson` | 32 | 179 | [🔗](https://github.com/KumaloWilson) |
 | 88 | `lordskyzw` | 32 | 53 | [🔗](https://github.com/lordskyzw) |
 | 89 | `CyprianTinasheAarons` | 32 | 189 | [🔗](https://github.com/CyprianTinasheAarons) |
-| 90 | `rodney-m` | 30 | 117 | [🔗](https://github.com/rodney-m) |
-| 91 | `engbnyarambi` | 30 | 8 | [🔗](https://github.com/engbnyarambi) |
+| 90 | `engbnyarambi` | 31 | 8 | [🔗](https://github.com/engbnyarambi) |
+| 91 | `rodney-m` | 30 | 117 | [🔗](https://github.com/rodney-m) |
 | 92 | `layan2k` | 30 | 43 | [🔗](https://github.com/layan2k) |
 | 93 | `isheunesutembo` | 30 | 66 | [🔗](https://github.com/isheunesutembo) |
 | 94 | `tsitsiflora` | 30 | 30 | [🔗](https://github.com/tsitsiflora) |
