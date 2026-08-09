@@ -5,21 +5,21 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-08-08 04:56 UTC  
+**Last updated:** 2026-08-09 05:04 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 5790 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 1297 | 29 | [🔗](https://github.com/sehmaluva) |
-| 3 | `nelsonnzou-crypt` | 618 | 37 | [🔗](https://github.com/nelsonnzou-crypt) |
-| 4 | `mrfr8nk` | 618 | 85 | [🔗](https://github.com/mrfr8nk) |
-| 5 | `KnowledgeSeeker101-bit` | 443 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
-| 6 | `skyridertk` | 197 | 46 | [🔗](https://github.com/skyridertk) |
+| 1 | `AyuGram` | 5802 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1300 | 29 | [🔗](https://github.com/sehmaluva) |
+| 3 | `mrfr8nk` | 618 | 85 | [🔗](https://github.com/mrfr8nk) |
+| 4 | `nelsonnzou-crypt` | 617 | 37 | [🔗](https://github.com/nelsonnzou-crypt) |
+| 5 | `KnowledgeSeeker101-bit` | 444 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
+| 6 | `skyridertk` | 198 | 46 | [🔗](https://github.com/skyridertk) |
 | 7 | `blessing-mufaro` | 185 | 26 | [🔗](https://github.com/blessing-mufaro) |
-| 8 | `alistairholmes` | 181 | 113 | [🔗](https://github.com/alistairholmes) |
+| 8 | `alistairholmes` | 182 | 113 | [🔗](https://github.com/alistairholmes) |
 | 9 | `sirx2713` | 173 | 524 | [🔗](https://github.com/sirx2713) |
 | 10 | `Amen-Musingarimi` | 171 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
-| 11 | `kculz` | 170 | 64 | [🔗](https://github.com/kculz) |
+| 11 | `kculz` | 167 | 64 | [🔗](https://github.com/kculz) |
 | 12 | `protendai` | 165 | 2 | [🔗](https://github.com/protendai) |
 | 13 | `DonnC` | 164 | 98 | [🔗](https://github.com/DonnC) |
 | 14 | `kudak3` | 162 | 25 | [🔗](https://github.com/kudak3) |
@@ -33,14 +33,14 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 22 | `NyashaKays` | 102 | 21 | [🔗](https://github.com/NyashaKays) |
 | 23 | `ibnufaqih77` | 101 | 1 | [🔗](https://github.com/ibnufaqih77) |
 | 24 | `ronna` | 98 | 37 | [🔗](https://github.com/ronna) |
-| 25 | `xeroxzen` | 94 | 108 | [🔗](https://github.com/xeroxzen) |
+| 25 | `xeroxzen` | 95 | 108 | [🔗](https://github.com/xeroxzen) |
 | 26 | `brighton0102` | 89 | 57 | [🔗](https://github.com/brighton0102) |
 | 27 | `sibandadonty` | 88 | 3 | [🔗](https://github.com/sibandadonty) |
 | 28 | `loktioncode` | 87 | 226 | [🔗](https://github.com/loktioncode) |
 | 29 | `kukuthecoder` | 86 | 7 | [🔗](https://github.com/kukuthecoder) |
 | 30 | `123nicky` | 85 | 7 | [🔗](https://github.com/123nicky) |
-| 31 | `Cod3Uchiha` | 83 | 22 | [🔗](https://github.com/Cod3Uchiha) |
-| 32 | `nigelreign` | 82 | 62 | [🔗](https://github.com/nigelreign) |
+| 31 | `nigelreign` | 83 | 62 | [🔗](https://github.com/nigelreign) |
+| 32 | `Cod3Uchiha` | 83 | 22 | [🔗](https://github.com/Cod3Uchiha) |
 | 33 | `PrettyR` | 78 | 10 | [🔗](https://github.com/PrettyR) |
 | 34 | `kudapara` | 78 | 83 | [🔗](https://github.com/kudapara) |
 | 35 | `Dalu-Buhle` | 69 | 21 | [🔗](https://github.com/Dalu-Buhle) |
@@ -80,13 +80,13 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 69 | `richard-muvirimi` | 39 | 52 | [🔗](https://github.com/richard-muvirimi) |
 | 70 | `gwokudasam` | 39 | 285 | [🔗](https://github.com/gwokudasam) |
 | 71 | `TheArtifulProgrammer` | 39 | 61 | [🔗](https://github.com/TheArtifulProgrammer) |
-| 72 | `devmelo7` | 39 | 3 | [🔗](https://github.com/devmelo7) |
-| 73 | `lordskyzw` | 39 | 55 | [🔗](https://github.com/lordskyzw) |
+| 72 | `lordskyzw` | 39 | 55 | [🔗](https://github.com/lordskyzw) |
+| 73 | `devmelo7` | 39 | 3 | [🔗](https://github.com/devmelo7) |
 | 74 | `lordememphis` | 38 | 20 | [🔗](https://github.com/lordememphis) |
 | 75 | `jowner46` | 37 | 0 | [🔗](https://github.com/jowner46) |
-| 76 | `gitnyasha` | 36 | 83 | [🔗](https://github.com/gitnyasha) |
-| 77 | `rbryanben` | 36 | 20 | [🔗](https://github.com/rbryanben) |
-| 78 | `bryanvengwa` | 36 | 64 | [🔗](https://github.com/bryanvengwa) |
+| 76 | `rbryanben` | 36 | 20 | [🔗](https://github.com/rbryanben) |
+| 77 | `bryanvengwa` | 36 | 64 | [🔗](https://github.com/bryanvengwa) |
+| 78 | `gitnyasha` | 36 | 83 | [🔗](https://github.com/gitnyasha) |
 | 79 | `Bongani-io` | 36 | 11 | [🔗](https://github.com/Bongani-io) |
 | 80 | `paulshaun-kdtk` | 36 | 35 | [🔗](https://github.com/paulshaun-kdtk) |
 | 81 | `KupaMakunura` | 36 | 25 | [🔗](https://github.com/KupaMakunura) |
