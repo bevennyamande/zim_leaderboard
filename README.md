@@ -5,33 +5,33 @@
 Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 
 <!-- START LEADERBOARD -->
-**Last updated:** 2026-09-26 09:11 UTC  
+**Last updated:** 2026-09-27 09:51 UTC  
 
 | Rank | Username | Followers | Public Repos | Profile |
 |------|----------|-----------|--------------|---------|
-| 1 | `AyuGram` | 6180 | 10 | [🔗](https://github.com/AyuGram) |
-| 2 | `sehmaluva` | 1314 | 33 | [🔗](https://github.com/sehmaluva) |
-| 3 | `nelsonnzou-crypt` | 621 | 39 | [🔗](https://github.com/nelsonnzou-crypt) |
-| 4 | `mrfr8nk` | 621 | 85 | [🔗](https://github.com/mrfr8nk) |
+| 1 | `AyuGram` | 6190 | 10 | [🔗](https://github.com/AyuGram) |
+| 2 | `sehmaluva` | 1313 | 33 | [🔗](https://github.com/sehmaluva) |
+| 3 | `mrfr8nk` | 621 | 85 | [🔗](https://github.com/mrfr8nk) |
+| 4 | `nelsonnzou-crypt` | 620 | 39 | [🔗](https://github.com/nelsonnzou-crypt) |
 | 5 | `KnowledgeSeeker101-bit` | 461 | 9 | [🔗](https://github.com/KnowledgeSeeker101-bit) |
 | 6 | `skyridertk` | 199 | 46 | [🔗](https://github.com/skyridertk) |
 | 7 | `blessing-mufaro` | 188 | 26 | [🔗](https://github.com/blessing-mufaro) |
 | 8 | `alistairholmes` | 184 | 113 | [🔗](https://github.com/alistairholmes) |
-| 9 | `kculz` | 181 | 64 | [🔗](https://github.com/kculz) |
+| 9 | `kculz` | 182 | 64 | [🔗](https://github.com/kculz) |
 | 10 | `sirx2713` | 172 | 524 | [🔗](https://github.com/sirx2713) |
 | 11 | `protendai` | 166 | 2 | [🔗](https://github.com/protendai) |
 | 12 | `DonnC` | 164 | 100 | [🔗](https://github.com/DonnC) |
-| 13 | `kudak3` | 161 | 25 | [🔗](https://github.com/kudak3) |
+| 13 | `kudak3` | 162 | 25 | [🔗](https://github.com/kudak3) |
 | 14 | `Elisvobs` | 153 | 39 | [🔗](https://github.com/Elisvobs) |
 | 15 | `michaeldera` | 129 | 35 | [🔗](https://github.com/michaeldera) |
 | 16 | `zinyando` | 126 | 101 | [🔗](https://github.com/zinyando) |
-| 17 | `kaysiz` | 122 | 275 | [🔗](https://github.com/kaysiz) |
+| 17 | `kaysiz` | 123 | 275 | [🔗](https://github.com/kaysiz) |
 | 18 | `Ju99ernaut` | 111 | 89 | [🔗](https://github.com/Ju99ernaut) |
 | 19 | `zim-bot` | 110 | 10 | [🔗](https://github.com/zim-bot) |
 | 20 | `NyashaKays` | 102 | 22 | [🔗](https://github.com/NyashaKays) |
 | 21 | `terrameijar` | 101 | 50 | [🔗](https://github.com/terrameijar) |
 | 22 | `ibnufaqih77` | 101 | 1 | [🔗](https://github.com/ibnufaqih77) |
-| 23 | `ronna` | 100 | 38 | [🔗](https://github.com/ronna) |
+| 23 | `ronna` | 101 | 38 | [🔗](https://github.com/ronna) |
 | 24 | `Amen-Musingarimi` | 94 | 90 | [🔗](https://github.com/Amen-Musingarimi) |
 | 25 | `xeroxzen` | 93 | 110 | [🔗](https://github.com/xeroxzen) |
 | 26 | `sibandadonty` | 88 | 3 | [🔗](https://github.com/sibandadonty) |
@@ -54,12 +54,12 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 43 | `ndoubismarck` | 59 | 19 | [🔗](https://github.com/ndoubismarck) |
 | 44 | `mchigangawa` | 58 | 43 | [🔗](https://github.com/mchigangawa) |
 | 45 | `phoscoder` | 58 | 33 | [🔗](https://github.com/phoscoder) |
-| 46 | `Bshata` | 57 | 9 | [🔗](https://github.com/Bshata) |
-| 47 | `invincyx` | 56 | 17 | [🔗](https://github.com/invincyx) |
+| 46 | `invincyx` | 58 | 17 | [🔗](https://github.com/invincyx) |
+| 47 | `Bshata` | 57 | 9 | [🔗](https://github.com/Bshata) |
 | 48 | `paynow` | 55 | 12 | [🔗](https://github.com/paynow) |
-| 49 | `ntsingo` | 54 | 9 | [🔗](https://github.com/ntsingo) |
-| 50 | `hbutau` | 54 | 105 | [🔗](https://github.com/hbutau) |
-| 51 | `thando544` | 54 | 13 | [🔗](https://github.com/thando544) |
+| 49 | `thando544` | 55 | 13 | [🔗](https://github.com/thando544) |
+| 50 | `ntsingo` | 54 | 9 | [🔗](https://github.com/ntsingo) |
+| 51 | `hbutau` | 54 | 105 | [🔗](https://github.com/hbutau) |
 | 52 | `iamstan13y` | 50 | 148 | [🔗](https://github.com/iamstan13y) |
 | 53 | `TadiwanasheZvidzaRodney` | 50 | 55 | [🔗](https://github.com/TadiwanasheZvidzaRodney) |
 | 54 | `Stephanie041996` | 50 | 56 | [🔗](https://github.com/Stephanie041996) |
@@ -94,21 +94,21 @@ Tracking top GitHub devs in 🇿🇼 Zimbabwe by followers. Updated daily.
 | 83 | `PraiseTechzw` | 36 | 162 | [🔗](https://github.com/PraiseTechzw) |
 | 84 | `bmukorera` | 35 | 28 | [🔗](https://github.com/bmukorera) |
 | 85 | `TendayiKunaka` | 35 | 11 | [🔗](https://github.com/TendayiKunaka) |
-| 86 | `tonderaikawere` | 35 | 55 | [🔗](https://github.com/tonderaikawere) |
-| 87 | `eisax` | 35 | 228 | [🔗](https://github.com/eisax) |
+| 86 | `eisax` | 35 | 228 | [🔗](https://github.com/eisax) |
+| 87 | `tonderaikawere` | 35 | 55 | [🔗](https://github.com/tonderaikawere) |
 | 88 | `chinyavadav` | 35 | 36 | [🔗](https://github.com/chinyavadav) |
 | 89 | `johnmugabe` | 34 | 13 | [🔗](https://github.com/johnmugabe) |
 | 90 | `engbnyarambi` | 34 | 8 | [🔗](https://github.com/engbnyarambi) |
 | 91 | `omryzw` | 34 | 47 | [🔗](https://github.com/omryzw) |
-| 92 | `Ngonie-x` | 34 | 46 | [🔗](https://github.com/Ngonie-x) |
-| 93 | `immachakata` | 34 | 26 | [🔗](https://github.com/immachakata) |
-| 94 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
-| 95 | `KumaloWilson` | 33 | 205 | [🔗](https://github.com/KumaloWilson) |
-| 96 | `paulshaun-kdtk` | 33 | 35 | [🔗](https://github.com/paulshaun-kdtk) |
-| 97 | `Westruva` | 33 | 45 | [🔗](https://github.com/Westruva) |
-| 98 | `Extacia21` | 32 | 29 | [🔗](https://github.com/Extacia21) |
-| 99 | `tafadzwaonline` | 32 | 9 | [🔗](https://github.com/tafadzwaonline) |
-| 100 | `alecmus` | 32 | 38 | [🔗](https://github.com/alecmus) |
+| 92 | `Westruva` | 34 | 46 | [🔗](https://github.com/Westruva) |
+| 93 | `Ngonie-x` | 34 | 46 | [🔗](https://github.com/Ngonie-x) |
+| 94 | `immachakata` | 34 | 26 | [🔗](https://github.com/immachakata) |
+| 95 | `FRESHKID105` | 33 | 9 | [🔗](https://github.com/FRESHKID105) |
+| 96 | `KumaloWilson` | 33 | 205 | [🔗](https://github.com/KumaloWilson) |
+| 97 | `paulshaun-kdtk` | 33 | 35 | [🔗](https://github.com/paulshaun-kdtk) |
+| 98 | `banQomania` | 33 | 66 | [🔗](https://github.com/banQomania) |
+| 99 | `Extacia21` | 32 | 29 | [🔗](https://github.com/Extacia21) |
+| 100 | `tafadzwaonline` | 32 | 9 | [🔗](https://github.com/tafadzwaonline) |
 <!-- END LEADERBOARD -->
 
 > Powered by GitHub Actions + OpenAI braincells
